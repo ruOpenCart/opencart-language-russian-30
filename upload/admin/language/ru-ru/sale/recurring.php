@@ -3,14 +3,14 @@
 $_['heading_title']                        = 'Регулярные заказы';
 
 // Text
-$_['text_success']                         = 'Успешно: Вы изменили периодические заказы!';
+$_['text_success']                         = 'Успешно: Вы изменили регулярные профили!';
 $_['text_list']                            = 'Список переодических заказов';
 $_['text_filter']                          = 'Фильтр';
 $_['text_recurring_detail']                = 'Регулярные детали';
 $_['text_order_detail']                    = 'Детали заказа';
 $_['text_product_detail']                  = 'Детали продукции';
 $_['text_transaction']                     = 'Транзакции';
-$_['text_order_recurring_id']              = 'Номер периодического заказа';
+$_['text_order_recurring_id']              = 'Номер регулярного заказа';
 $_['text_reference']                       = 'Ссылка на платеж';
 $_['text_recurring_name']                  = 'Регулярный профиль';
 $_['text_recurring_description']           = 'Описание';
@@ -60,7 +60,7 @@ $_['column_type']                           = 'Тип';
 $_['column_action']                         = 'Действие';
 
 // Entry
-$_['entry_order_recurring_id']             = 'Периодический номер';
+$_['entry_order_recurring_id']             = 'Регулярный номер';
 $_['entry_order_id']                       = 'Номер заказа';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Клиент';
@@ -69,14 +69,14 @@ $_['entry_status']                         = 'Статус';
 $_['entry_type']                           = 'Тип';
 $_['entry_action']                         = 'Действие';
 $_['entry_email']                          = 'Эл. почта';
-$_['entry_description']                    = 'Описание периодического профиля';
+$_['entry_description']                    = 'Описание регулярного профиля';
 $_['entry_product']                        = 'Продукт';
 $_['entry_quantity']                       = 'Количество';
 $_['entry_amount']                         = 'Сумма';
-$_['entry_recurring']                      = 'Периодический профиль';
+$_['entry_recurring']                      = 'Регулярный профиль';
 $_['entry_payment_method']                 = 'Метод оплаты';
 $_['entry_cancel_payment']                 = 'Отмена оплаты';
 
 // Error
 $_['error_not_cancelled']                  = 'Ошибка: %s';
-$_['error_not_found']                      = 'Не удалось отменить периодический профиль';
+$_['error_not_found']                      = 'Не удалось отменить регулярный профиль';

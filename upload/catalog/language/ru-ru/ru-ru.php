@@ -13,7 +13,7 @@ $_['thousand_point']        = '\'';
 $_['text_home']             = '<i class="fa fa-home"></i>';
 $_['text_yes']              = 'Да';
 $_['text_no']               = 'Нет';
-$_['text_none']             = ' --- Нечего выбрать --- ';
+$_['text_none']             = ' --- Ни один --- ';
 $_['text_select']           = ' --- Пожалуйста, выберите --- ';
 $_['text_all_zones']        = 'Все зоны';
 $_['text_pagination']       = 'Показано с %d по %d из %d (всего страниц: %d)';
