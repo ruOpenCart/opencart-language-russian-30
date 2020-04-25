@@ -14,7 +14,7 @@ $_['text_germany']     = 'Германия';
 $_['text_netherlands'] = 'Нидерланды';
 
 // Entry
-$_['entry_total']      = 'Весь заказ';
+$_['entry_total']      = 'Сумма заказа';
 $_['entry_fee']        = 'Счет-фактура';
 $_['entry_tax_class']  = 'Налоговый класс';
 $_['entry_status']     = 'Статус';

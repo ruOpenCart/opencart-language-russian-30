@@ -63,7 +63,7 @@ $_['text_postcode']                 = 'Почтовый индекс';
 $_['text_payment_info']             = 'Платежная информация';
 $_['text_no_cron_time']             = 'Cron еще не был выполнен';
 $_['text_comment']                  = 'Обновлено Lay-Buy';
-$_['text_comment_canceled']         = 'Заказ отменен и периодический профиль PayPal #%s отменен.';
+$_['text_comment_canceled']         = 'Заказ отменен и регулярный профиль PayPal #%s отменен.';
 $_['text_remaining']                = 'Оставшиеся:';
 $_['text_payment']                  = 'Оплата';
 
