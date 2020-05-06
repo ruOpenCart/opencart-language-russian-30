@@ -4,7 +4,7 @@
 ## Переведены папки
 * admin
 * catalog
-* install
+* install (в т.ч. opencart.sql)
 
 ## Установка
 ### Ручная установка русификатора для OpenCart 3:
@@ -22,11 +22,12 @@
 7. Нажмите после выбора "Save"
 
 ### Совместимые версии OpenCart
-* 3.0.3.2
+* 3.0.3.3
 
 ### Актуальная версия OpenCart
-* 3.0.3.2
+* 3.0.3.3
 
 ### Ресурсы
 * [OpenCart](https://opencart.com/)
-* [Перевод](https://forum.opencart.name/)
+* [Русскоязычное сообщество](https://forum.opencart.name/)
+* [Тема поддержки перевода](https://forum.opencart.name/resources/Русский-язык-для-opencart-3-0.9/)
