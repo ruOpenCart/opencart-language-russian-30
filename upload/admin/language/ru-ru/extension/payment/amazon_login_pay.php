@@ -63,6 +63,7 @@ $_['text_confirm_capture']         = 'Вы уверены, что хотите �
 $_['text_confirm_refund']          = 'Вы уверены, что хотите вернуть платеж??';
 $_['text_minimum_total']           = 'Минимальная сумма заказа';
 $_['text_geo_zone']                = 'Геозона';
+$_['text_buyer_multi_currency']    = 'Multi-Currency function';
 $_['text_status']                  = 'Статус';
 $_['text_declined_codes']          = 'Тестировать отклонения кодов';
 $_['text_sort_order']              = 'Порядок сортировки';
@@ -75,6 +76,7 @@ $_['text_credentials']             = 'Пожалуйста, вставьте с�
 $_['text_validate_credentials']    = 'Проверить и использовать данные';
 $_['text_extension']               = 'Расширения';
 $_['text_info_ssl']                = '<strong>Важно:</strong> SSL (https://) является обязательным требованием и должен быть включен на вашем веб-сайте, чтобы кнопки Amazon Pay и Login with Amazon работали.';
+$_['text_info_buyer_multi_currencies'] = 'This extension supports the Multi-Currency functionality. If you would like to use it, please make sure you have enabled at least one of the <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> in your on-line store settings <b><a href="index.php?route=localisation/currency&user_token=%s">(%s > %s > %s )</b></a>, and then enable the <b>Multi-Currency function</b>';
 
 // Columns
 $_['column_status']                = 'Статус';
@@ -85,26 +87,30 @@ $_['entry_access_key']             = 'Ключ доступа';
 $_['entry_access_secret']          = 'Секретный ключ';
 $_['entry_client_id']              = 'Идентификатор клиента';
 $_['entry_client_secret']          = 'Секрет клиента';
-$_['entry_language']               = 'Язык';
+$_['entry_language']               = 'Default Language';
 $_['entry_login_pay_test']         = 'Тестовый режим';
 $_['entry_login_pay_mode']         = 'Режим оплаты';
 $_['entry_checkout']               = 'Режим проверки';
 $_['entry_payment_region']         = 'Платежный регион';
-$_['entry_capture_status']         = 'Автоматический статус получения';
+$_['entry_capture_status']         = 'Status for automatic capture';
 $_['entry_pending_status']         = 'Статус отложенного заказа';
+$_['entry_capture_oc_status']      = 'Capture Order Status';
 $_['entry_ipn_url']                = 'URL уведомления о мгновенном платеже';
 $_['entry_ipn_token']              = 'Секретный токен';
 $_['entry_debug']                  = 'Журнал отладки';
 
 // Help
-$_['help_pay_mode']                = 'Оплата доступна только для рынка США';
+$_['help_pay_mode']                = 'Choose Payment if you would like the payment to get captured automatically, or Authorization to capture it manually.';
 $_['help_checkout']                = 'Если кнопка оплаты также и войти в систему клиенту';
-$_['help_capture_status']          = 'Выберите статус заказа, который активирует автоматически получение авторизованного платежа.';
+$_['help_capture_status']          = 'Choose the order status that will trigger automatic capture of an authorized payment.';
+$_['help_capture_oc_status']        = 'Choose the order status that the order will get once it is captured in Amazon Seller Central or from the capture function in OpenCart Admin > %s > %s > %s.';
 $_['help_ipn_url']                 = 'Установите этот URL-адрес в качестве продавца в Amazon Seller Central';
 $_['help_ipn_token']               = 'Сделать это долго и трудно угадать. Результирующий IPN (уведомления о мгновенном платеже) URL не должен быть длиннее 150 символов.';
 $_['help_minimum_total']           = 'Это должно быть выше нуля';
 $_['help_debug']                   = 'Включение отладки приведет к записи конфиденциальных данных в файл журнала. Вы должны всегда отключать, если не указано иное';
 $_['help_declined_codes']          = 'Это только для целей тестирования';
+$_['help_buyer_multi_currency']     = 'Enable this option if you would like the buyer to shop in any of the Amazon Pay supported currencies available in your on-line store: %s';
+$_['help_buyer_multi_currency_no_available_currency']     = 'There are no <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> available in your on-line store, please add/enable such currencies in order to use this functionality.';
 
 // Order Info
 $_['tab_order_adjustment']         = 'Корректировка заказа';
@@ -122,6 +128,7 @@ $_['error_curreny']                = 'В Вашем магазине должн�
 $_['error_upload']                 = 'Загрузка не удалась';
 $_['error_data_missing']           = 'Требуемые данные отсутствуют';
 $_['error_credentials']            = 'Пожалуйста, введите ключи в правильном формате JSON';
+$_['error_no_supported_currencies'] = 'There are no supported currencies available in your store, please add/enable Buyer Multi-Currency supported currencies in order to use this feature.';
 
 // Buttons
 $_['button_capture']               = 'Получить';
