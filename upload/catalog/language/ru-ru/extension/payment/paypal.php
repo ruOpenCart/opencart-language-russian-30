@@ -1,28 +1,28 @@
 <?php
 // Text
-$_['text_title']						= 'PayPal (Express, Card)';
-$_['text_paypal_express']				= 'PayPal Express';
-$_['text_paypal_card']					= 'PayPal Card';
-$_['text_wait']							= 'Please wait!';
-$_['text_order_message']				= 'PayPal Seller Protection - %s';
+$_['text_title']                 = 'PayPal (Экспресс, Карта)';
+$_['text_paypal_express']        = 'PayPal Экспресс';
+$_['text_paypal_card']           = 'PayPal Карта';
+$_['text_wait']                  = 'Пожалуйста, подождите!';
+$_['text_order_message']         = 'Защита продавца PayPal - %s';
 
 // Entry
-$_['entry_card_number']					= 'Card Number';
-$_['entry_expiration_date']				= 'Expiration Date';
-$_['entry_cvv']							= 'CVV';
+$_['entry_card_number']          = 'Номер карты';
+$_['entry_expiration_date']      = 'Дата окончания срока';
+$_['entry_cvv']                  = 'CVV';
 
 // Button
-$_['button_pay']						= 'Pay with Card';
+$_['button_pay']                 = 'Оплатить картой';
 
 // Error
-$_['error_warning']						= 'Please check the form carefully for errors.';
-$_['error_3ds_error']					= 'An error occurred with the 3DS authentication system.';
-$_['error_3ds_skipped_by_buyer']		= '3D Secure authentication was skipped by you.';
-$_['error_3ds_failure']					= 'You may have failed the challenge or the device was not verified.';
-$_['error_3ds_undefined']				= 'Card network did not require a 3D Secure.';
-$_['error_3ds_bypassed']				= '3D Secure was skipped as authentication system did not require a challenge.';
-$_['error_3ds_unavailable']				= 'Issuing bank is not able to complete authentication.';
-$_['error_3ds_attempted']				= 'Card is not enrolled in 3D Secure as card issuing bank is not participating in 3D Secure.';
-$_['error_3ds_card_ineligible']			= 'Card is not eligible for 3DS Secure authentication.';
-$_['error_payment']						= 'Please choose another payment method or <a href="%s" target="_blank">contact us</a>.';
-$_['error_timeout'] 	  				= 'Sorry, PayPal is currently busy. Please try again later!';
+$_['error_warning']              = 'Пожалуйста, внимательно проверьте форму на наличие ошибок.';
+$_['error_3ds_error']            = 'Произошла ошибка в системе аутентификации 3DS.';
+$_['error_3ds_skipped_by_buyer'] = 'Проверка подлинности 3D Secure была пропущена Вами.';
+$_['error_3ds_failure']          = 'Возможно, Вы не прошли тест или устройство не было проверено.';
+$_['error_3ds_undefined']        = 'Карта сети не требует 3D Secure.';
+$_['error_3ds_bypassed']         = '3D Secure был пропущен, так как система аутентификации не требовала испытаний.';
+$_['error_3ds_unavailable']      = 'Банк-эмитент не может завершить аутентификацию.';
+$_['error_3ds_attempted']        = 'Карта не зарегистрирована в 3D Secure, поскольку банк-эмитент карты не участвует в 3D Secure.';
+$_['error_3ds_card_ineligible']  = 'Карта не подходит для аутентификации 3DS Secure.';
+$_['error_payment']              = 'Пожалуйста, выберите другой способ оплаты или <a href="%s" target="_blank">свяжитесь с нами</a>.';
+$_['error_timeout']              = 'Извините, PayPal в данный момент занят. Пожалуйста, попробуйте позже!';

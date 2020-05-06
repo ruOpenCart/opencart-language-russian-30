@@ -1,54 +1,54 @@
 <?php
 // Heading
-$_['heading_title']    					= 'PayPal Smart Button';
+$_['heading_title']             = 'Умная кнопка PayPal';
 
 // Text
-$_['text_extensions']   				= 'Extensions';
-$_['text_edit']        					= 'Edit PayPal Smart Button Module';
-$_['text_general']				 	 	= 'General';
-$_['text_product_page']					= 'Product Page';
-$_['text_cart_page']					= 'Cart Page';
-$_['text_insert_prepend']				= 'Insert Into Begin';
-$_['text_insert_append']				= 'Insert Into End';
-$_['text_insert_before']				= 'Insert Before';
-$_['text_insert_after']					= 'Insert After';
-$_['text_align_left']					= 'Align Left';
-$_['text_align_center']					= 'Align Center';
-$_['text_align_right']					= 'Align Right';
-$_['text_small']			 			= 'Small';
-$_['text_medium']			 	 		= 'Medium';
-$_['text_large']			 	 		= 'Large';
-$_['text_responsive']			 	 	= 'Responsive';
-$_['text_gold']			 	 			= 'Gold';
-$_['text_blue']			 	 			= 'Blue';
-$_['text_silver']			 	 		= 'Silver';
-$_['text_white']			 	 		= 'White';
-$_['text_black']			 	 		= 'Black';
-$_['text_pill']			 	 			= 'Pill';
-$_['text_rect']			 	 			= 'Rect';
-$_['text_checkout']			 	 		= 'Checkout';
-$_['text_pay']			 	 			= 'Pay';
-$_['text_buy_now']			 	 		= 'Buy Now';
-$_['text_pay_pal']			 	 		= 'PayPal';
-$_['text_installment']			 	 	= 'Installment';
-$_['text_yes']			 	 			= 'Yes';
-$_['text_no']			 	 			= 'No';
+$_['text_extensions']           = 'Расширения';
+$_['text_edit']                 = 'Изменить модуль смарт-кнопок PayPal';
+$_['text_general']              = 'Общие';
+$_['text_product_page']         = 'Страница продукта';
+$_['text_cart_page']            = 'Страница корзины';
+$_['text_insert_prepend']       = 'Вставить в начало';
+$_['text_insert_append']        = 'Вставить в конец';
+$_['text_insert_before']        = 'Вставить перед';
+$_['text_insert_after']         = 'Вставить после';
+$_['text_align_left']           = 'Выровнять по левому краю';
+$_['text_align_center']         = 'Выровнять по центру';
+$_['text_align_right']          = 'Выровнять по правому краю';
+$_['text_small']                = 'Маленький';
+$_['text_medium']               = 'Средний';
+$_['text_large']                = 'Большой';
+$_['text_responsive']           = 'Отзывчивый';
+$_['text_gold']                 = 'Золотой';
+$_['text_blue']                 = 'Синий';
+$_['text_silver']               = 'Серебряный';
+$_['text_white']                = 'Белый';
+$_['text_black']                = 'Черный';
+$_['text_pill']                 = 'Таблетка';
+$_['text_rect']                 = 'Квитанция';
+$_['text_checkout']             = 'Оформить';
+$_['text_pay']                  = 'Оплатить';
+$_['text_buy_now']              = 'Купить сейчас';
+$_['text_pay_pal']              = 'PayPal';
+$_['text_installment']          = 'Взнос';
+$_['text_yes']                  = 'Да';
+$_['text_no']                   = 'Нет';
 
 // Entry
-$_['entry_status']     					= 'Status';
-$_['entry_product_page_status']     	= 'Product Page Status';
-$_['entry_cart_page_status']     		= 'Cart Page Status';
-$_['entry_insert_tag']     				= 'Insert Tag';
-$_['entry_insert_type']     			= 'Insert Type';
-$_['entry_button_align']     			= 'Button Align';
-$_['entry_button_size'] 				= 'Button Size';
-$_['entry_button_color'] 				= 'Button Color';
-$_['entry_button_shape'] 				= 'Button Shape';
-$_['entry_button_label'] 				= 'Button Label';
-$_['entry_button_tagline'] 				= 'Button Tagline';
+$_['entry_status']              = 'Статус';
+$_['entry_product_page_status'] = 'Статус страницы продукта';
+$_['entry_cart_page_status']    = 'Статус страницы корзины';
+$_['entry_insert_tag']          = 'Вставить тег';
+$_['entry_insert_type']         = 'Вставить тип';
+$_['entry_button_align']        = 'Выравнивание кнопки';
+$_['entry_button_size']         = 'Размер кнопки';
+$_['entry_button_color']        = 'Цвет кнопки';
+$_['entry_button_shape']        = 'Форма кнопки';
+$_['entry_button_label']        = 'Метка кнопки';
+$_['entry_button_tagline']      = 'Слоган кнопки';
 
 // Success
-$_['success_save']						= 'Success: You have modified PayPal Smart Button module!';
+$_['success_save']              = 'Успешно: Вы изменили модуль смарт-кнопок PayPal!';
 
 // Error
-$_['error_permission'] 					= 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';
+$_['error_permission']          = 'Предупреждение. У Вас нет разрешения на изменение модуля кнопки PayPal Express Checkout!';
