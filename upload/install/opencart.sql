@@ -2585,14 +2585,14 @@ INSERT INTO `oc_order_status` (`order_status_id`, `language_id`, `name`) VALUES
 (16, 1, 'Voided'),
 (15, 1, 'Processed'),
 (14, 1, 'Expired'),
-(17, 2, 'Handed over'),
-(18, 2, 'Equippedwith'),
-(19, 2, 'Bought elsewhere'),
-(20, 2, 'Not satisfied with the price'),
-(21, 2, 'Agreed with the client'),
-(22, 2, 'Delivery postponed'),
-(23, 2, 'Prepayment Received'),
-(24, 2, 'Invoice created');
+(17, 1, 'Handed over'),
+(18, 1, 'Equippedwith'),
+(19, 1, 'Bought elsewhere'),
+(20, 1, 'Not satisfied with the price'),
+(21, 1, 'Agreed with the client'),
+(22, 1, 'Delivery postponed'),
+(23, 1, 'Prepayment Received'),
+(24, 1, 'Invoice created');
 
 -- ru
 INSERT INTO `oc_order_status` (`order_status_id`, `language_id`, `name`) VALUES
@@ -3783,8 +3783,8 @@ INSERT INTO `oc_setting` (`store_id`, `code`, `key`, `value`, `serialized`) VALU
 (0, 'report_product_purchased', 'report_product_purchased_sort_order', '11', 0),
 (0, 'report_marketing', 'report_marketing_status', '1', 0),
 (0, 'report_marketing', 'report_marketing_sort_order', '12', 0),
-(0, 'developer', 'developer_theme', '1', 0),
-(0, 'developer', 'developer_sass', '1', 0);
+(0, 'developer', 'developer_theme', '0', 0),
+(0, 'developer', 'developer_sass', '0', 0);
 
 -----------------------------------------------------------
 
