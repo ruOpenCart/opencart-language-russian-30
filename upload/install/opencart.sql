@@ -1072,8 +1072,8 @@ CREATE TABLE `oc_currency` (
 
 -- en
 INSERT INTO `oc_currency` (`currency_id`, `title`, `code`, `symbol_left`, `symbol_right`, `decimal_place`, `value`, `status`, `date_modified`) VALUES
-(1, 'Pound Sterling', 'GBP', '£', '', '2', 0.0108300, 1, '2020-04-28 21:00:00'),
-(2, 'US Dollar', 'USD', '$', '', '2', 0.01348000, 1, '2020-04-28 21:00:00'),
+(1, 'Pound Sterling', 'GBP', '£', '', '2', 0.01083000, 1, '2020-04-28 21:00:00'),
+(2, 'US Dollar', 'USD', '$', '', '2', 0.01333333, 1, '2020-04-28 21:00:00'),
 (3, 'Euro', 'EUR', '', '€', '2', 0.01244000, 1, '2020-04-28 21:00:00');
 
 -- ru
