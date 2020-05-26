@@ -7,7 +7,7 @@ $_['date_format_long']              = 'l d F Y';
 $_['time_format']                   = 'H:i:s';
 $_['datetime_format']               = 'd.m.Y H:i:s';
 $_['decimal_point']                 = '.';
-$_['thousand_point']                = '\'';
+$_['thousand_point']                = ' ';
 
 // Text
 $_['text_yes']                      = 'Да';
@@ -92,7 +92,7 @@ $_['button_search']                 = 'Искать';
 $_['button_view']                   = 'Смотреть';
 $_['button_install']                = 'Установить';
 $_['button_uninstall']              = 'Удалить';
-$_['button_link']                   = 'Связь';
+$_['button_link']                   = 'Ссылка';
 $_['button_currency']               = 'Обновить значения валют';
 $_['button_apply']                  = 'Применить';
 $_['button_category_add']           = 'Добавить категорию';
