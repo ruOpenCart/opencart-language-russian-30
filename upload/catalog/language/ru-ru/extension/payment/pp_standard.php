@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']	= 'PayPal';
-$_['text_testmode']	= 'Warning: The payment gateway is in \'Sandbox Mode\'. Your account will not be charged.';
-$_['text_total']	= 'Shipping, Handling, Discounts & Taxes';
+$_['text_title']    = 'PayPal';
+$_['text_testmode'] = 'Предупреждение. Платежный шлюз находится в \'режиме песочницы\'. Ваша учетная запись не будет снята.';
+$_['text_total']    = 'Доставка, обработка, скидки и налоги';

@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['express_text_title']      = 'Подтверждение заказа';
 
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
-$_['text_cart']               = 'Shopping Cart';
-$_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
-$_['text_recurring_item']     = 'Recurring Item';
-$_['text_length']             = ' for %s payments';
+$_['text_cart']               = 'Корзина покупателя';
+$_['text_shipping_updated']   = 'Служба доставки обновлена';
+$_['text_trial']              = '%s каждые %s %s для %s платежей тогда ';
+$_['text_recurring']          = '%s каждые %s %s';
+$_['text_recurring_item']     = 'Повторяющийся элемент';
+$_['text_length']             = ' для %s платежей';
 
 // Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
+$_['express_entry_coupon']    = 'Введите свой купон здесь:';
 
 // Button
-$_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
-$_['button_express_login']    = 'Continue to PayPal';
-$_['button_express_shipping'] = 'Update shipping';
+$_['button_express_coupon']   = 'Добавить';
+$_['button_express_confirm']  = 'Подтвердить';
+$_['button_express_login']    = 'Продолжить в PayPal';
+$_['button_express_shipping'] = 'Обновить доставку';
 
 // Error
-$_['error_heading_title']	  = 'There was an error';
-$_['error_too_many_failures'] = 'Your payment has failed too many times';
-$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_heading_title']     = 'Это была ошибка';
+$_['error_too_many_failures'] = 'Ваш платеж не прошел слишком много раз';
+$_['error_unavailable']       = 'Пожалуйста, используйте полный заказ с этим заказом';
+$_['error_no_shipping']       = 'Предупреждение: Варианты доставки не доступны. Пожалуйста, <a href="%s">свяжитесь с нами</a> для получения помощи!';

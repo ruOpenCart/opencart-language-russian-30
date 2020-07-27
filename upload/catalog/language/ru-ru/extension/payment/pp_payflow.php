@@ -1,24 +1,24 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_start_date']			= '(if available)';
-$_['text_issue']				= '(for Maestro and Solo cards only)';
-$_['text_wait']					= 'Please wait!';
+$_['text_title']           = 'Кредитная или дебетовая карта (безопасно обрабатывается PayPal)';
+$_['text_credit_card']     = 'Данные кредитной карты';
+$_['text_start_date']      = '(если доступно)';
+$_['text_issue']           = '(только для карт Maestro и Solo)';
+$_['text_wait']            = 'Пожалуйста, подождите!';
 
 // Entry
-$_['entry_cc_owner']			= 'Card Owner:';
-$_['entry_cc_type']				= 'Card Type:';
-$_['entry_cc_number']			= 'Card Number:';
-$_['entry_cc_start_date']		= 'Card Valid From Date:';
-$_['entry_cc_expire_date']		= 'Card Expiry Date:';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2):';
-$_['entry_cc_issue']			= 'Card Issue Number:';
+$_['entry_cc_owner']       = 'Владелец карты:';
+$_['entry_cc_type']        = 'Тип карты:';
+$_['entry_cc_number']      = 'Номер карты:';
+$_['entry_cc_start_date']  = 'Карта действительна с даты';
+$_['entry_cc_expire_date'] = 'Дата истечения срока действия карты';
+$_['entry_cc_cvv2']        = 'Код безопасности карты (CVV2)';
+$_['entry_cc_issue']       = 'Номер выпуска карты';
 
 // Error
-$_['error_required']			= 'Warning: All payment information fields are required.';
-$_['error_general']				= 'Warning: A general problem has occurred with the transaction. Please try again.';
-$_['error_config']				= 'Warning: Payment module configuration error. Please verify the login credentials.';
-$_['error_address']				= 'Warning: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
-$_['error_declined']			= 'Warning: This transaction has been declined. Please try again.';
-$_['error_invalid']				= 'Warning: The provided credit card information is invalid. Please try again.';
+$_['error_required']       = 'Предупреждение: Все поля информации о платеже обязательны для заполнения.';
+$_['error_general']        = 'Предупреждение: Общая проблема произошла с транзакцией. Пожалуйста, попробуйте еще раз.';
+$_['error_config']         = 'Предупреждение: Ошибка конфигурации платежного модуля. Пожалуйста, проверьте учетные данные.';
+$_['error_address']        = 'Предупреждение: Совпадение с адресом платежа Город, штат и почтовый индекс не удалось. Пожалуйста, попробуйте еще раз.';
+$_['error_declined']       = 'Предупреждение: Эта транзакция была отклонена. Пожалуйста, попробуйте еще раз.';
+$_['error_invalid']        = 'Предупреждение: Предоставленная информация о кредитной карте недействительна. Пожалуйста, попробуйте еще раз.';
