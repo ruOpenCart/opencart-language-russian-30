@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']		 = 'PayPal Pro';
+$_['heading_title']      = 'PayPal Pro';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']		 = 'Success: You have modified PayPal Website Payment Pro Checkout account details!';
-$_['text_edit']          = 'Edit PayPal Pro';
-$_['text_pp_pro']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorization'] = 'Authorization';
-$_['text_sale']			 = 'Sale';
+$_['text_extension']     = 'Расширения';
+$_['text_success']       = 'Успешно: Вы изменили данные учетной записи PayPal на веб-сайте Payment Pro Checkout!';
+$_['text_edit']          = 'Редактировать PayPal Pro';
+$_['text_pp_pro']        = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorization'] = 'Авторизация';
+$_['text_sale']          = 'Продажа';
 
 // Entry
-$_['entry_username']	 = 'API Username';
-$_['entry_password']	 = 'API Password';
-$_['entry_signature']	 = 'API Signature';
-$_['entry_test']		 = 'Test Mode';
-$_['entry_transaction']	 = 'Transaction Method:';
-$_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_username']     = 'API имя пользователя (Username)';
+$_['entry_password']     = 'API пароль (Password)';
+$_['entry_signature']    = 'API подпись (Signature)';
+$_['entry_test']         = 'Тестовый режим';
+$_['entry_transaction']  = 'Метод транзакции:';
+$_['entry_total']        = 'Сумма';
+$_['entry_order_status'] = 'Статус заказа';
+$_['entry_geo_zone']     = 'ГеоЗона';
+$_['entry_status']       = 'Статус';
+$_['entry_sort_order']   = 'Порядок сортировки';
 
 // Help
-$_['help_test']			 = 'Use the live or testing (sandbox) gateway server to process transactions?';
-$_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active';
+$_['help_test']          = 'Используете сервер шлюза реального времени или тестовый (песочница) для обработки транзакций?';
+$_['help_total']         = 'Общая сумма заказа, которую должен достичь заказ, прежде чем этот метод оплаты станет активным';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro Checkout!';
-$_['error_username']	 = 'API Username Required!';
-$_['error_password']	 = 'API Password Required!';
-$_['error_signature']	 = 'API Signature Required!';
+$_['error_permission']   = 'Предупреждение: У Вас нет разрешения на изменение платежа PayPal Website Payment Pro Checkout!';
+$_['error_username']     = 'API имя пользователя обязательно!';
+$_['error_password']     = 'API пароль обязателен!';
+$_['error_signature']    = 'API подпись обязательна!';

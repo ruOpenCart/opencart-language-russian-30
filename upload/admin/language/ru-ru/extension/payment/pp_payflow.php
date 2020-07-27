@@ -1,39 +1,39 @@
 <?php
 // Heading
-$_['heading_title']		 = 'PayPal Payflow Pro';
+$_['heading_title']      = 'PayPal Payflow Pro';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']		 = 'Success: You have modified PayPal Direct (UK) account details!';
-$_['text_edit']          = 'Edit PayPal Payflow Pro';
-$_['text_pp_payflow']	 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorization'] = 'Authorization';
-$_['text_sale']			 = 'Sale';
+$_['text_extension']     = 'Расширения';
+$_['text_success']       = 'Успешно: Вы изменили данные учетной записи PayPal Direct (UK)!';
+$_['text_edit']          = 'Редактировать PayPal Payflow Pro';
+$_['text_pp_payflow']    = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorization'] = 'Авторизация';
+$_['text_sale']          = 'Продажа';
 
 // Entry
-$_['entry_vendor']		 = 'Vendor';
-$_['entry_user']		 = 'User';
-$_['entry_password']	 = 'Password';
-$_['entry_partner']		 = 'Partner';
-$_['entry_test']		 = 'Test Mode';
-$_['entry_transaction']	 = 'Transaction Method';
-$_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_vendor']       = 'Продавец';
+$_['entry_user']         = 'Пользователь';
+$_['entry_password']     = 'Пароль';
+$_['entry_partner']      = 'Партнер';
+$_['entry_test']         = 'Тестовый режим';
+$_['entry_transaction']  = 'Метод транзакции';
+$_['entry_total']        = 'Сумма';
+$_['entry_order_status'] = 'Статус заказа';
+$_['entry_geo_zone']     = 'ГеоЗона';
+$_['entry_status']       = 'Статус';
+$_['entry_sort_order']   = 'Порядок сортировки';
 
 // Help
-$_['help_vendor']		 = 'Your merchant login ID that you created when you registered for the Website Payments Pro account';
-$_['help_user']			 = 'If you set up one or more additional users on the account, this value is the ID of the user authorised to process transactions. If, however, you have not set up additional users on the account, USER has the same value as VENDOR';
-$_['help_password']		 = 'The 6 to 32 character password that you defined while registering for the account';
-$_['help_partner']		 = 'The ID provided to you by the authorised PayPal Reseller who registered you for the Payflow SDK. If you purchased your account directly from PayPal, use the PayPal Pro instead';
-$_['help_test']			 = 'Use the live or testing (sandbox) gateway server to process transactions?';
-$_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active';
+$_['help_vendor']        = 'Ваш идентификатор входа в систему продавца, который Вы создали при регистрации в учетной записи платежей через Website Payments Pro';
+$_['help_user']          = 'Если Вы настроили одного или нескольких дополнительных пользователей в учетной записи, это значение будет идентификатором пользователя, авторизованного для обработки транзакций. Однако, если Вы не настроили дополнительных пользователей в учетной записи, ПОЛЬЗОВАТЕЛЬ имеет то же значение, что и ВЕНДОР.';
+$_['help_password']      = 'Пароль от 6 до 32 символов, который Вы указали при регистрации учетной записи';
+$_['help_partner']       = 'Идентификатор, предоставленный Вам авторизованным реселлером PayPal, который зарегистрировал Вас для Payflow SDK. Если Вы приобрели свой аккаунт непосредственно в PayPal, используйте вместо этого PayPal Pro';
+$_['help_test']          = 'Используете сервер шлюза реального времени или тестовый (песочница) для обработки транзакций?';
+$_['help_total']         = 'Общая сумма заказа, которую должен достичь заказ, прежде чем этот метод оплаты станет активным';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro (UK)!';
-$_['error_vendor']		 = 'Vendor Required!';
-$_['error_user']		 = 'User Required!';
-$_['error_password']	 = 'Password Required!';
-$_['error_partner']		 = 'Partner Required!';
+$_['error_permission']   = 'Предупреждение! У Вас нет разрешения на изменение платежа. Сайт PayPal Payment Pro (Великобритания)!';
+$_['error_vendor']       = 'Требуется продавец!';
+$_['error_user']         = 'Требуется пользователь!';
+$_['error_password']     = 'Требуется пароль!';
+$_['error_partner']      = 'Требуется партнер!';

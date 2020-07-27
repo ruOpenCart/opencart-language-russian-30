@@ -1,52 +1,52 @@
 <?php
 // Text
-$_['text_extension']		 = 'Payment Information';
-$_['text_capture_status']	 = 'Capture status';
-$_['text_amount_authorised'] = 'Amount authorised';
-$_['text_amount_captured']	 = 'Amount captured';
-$_['text_amount_refunded']	 = 'Amount refunded';
-$_['text_transaction']		 = 'Transactions';
-$_['text_complete']			 = 'Complete';
-$_['text_confirm_void']		 = 'If you void you cannot capture any further funds';
-$_['text_view']				 = 'View';
-$_['text_refund']			 = 'Refund';
-$_['text_resend']			 = 'Resend';
-$_['text_success']           = 'Transaction was successfully sent';
-$_['text_full_refund']		 = 'Full refund';
-$_['text_partial_refund']	 = 'Partial refund';
-$_['text_payment']		 	 = 'Payment';
-$_['text_current_refunds']   = 'Refunds have already been done for this transaction. The max refund is';
+$_['text_extension']         = 'Платежная информация';
+$_['text_capture_status']    = 'Захваченный статус';
+$_['text_amount_authorised'] = 'Разрешенная сумма';
+$_['text_amount_captured']   = 'Захваченная сумма';
+$_['text_amount_refunded']   = 'Возвращаемая сумма';
+$_['text_transaction']       = 'Транзакции';
+$_['text_complete']          = 'Завершить';
+$_['text_confirm_void']      = 'Если Вы откажетесь от участия, Вы не сможете получить дополнительные средства';
+$_['text_view']              = 'Посмотреть';
+$_['text_refund']            = 'Вернуть';
+$_['text_resend']            = 'Отправить повторно';
+$_['text_success']           = 'Транзакция была успешно отправлена';
+$_['text_full_refund']       = 'Полное возмещение';
+$_['text_partial_refund']    = 'Частичное возмещение';
+$_['text_payment']           = 'Оплата';
+$_['text_current_refunds']   = 'Возмещение уже было сделано для этой транзакции. Максимальный возврат средств';
 
 // Column
-$_['column_transaction']	 = 'Transaction ID';
-$_['column_amount']			 = 'Amount';
-$_['column_type']			 = 'Payment Type';
-$_['column_status']			 = 'Status';
-$_['column_pending_reason']	 = 'Pending Reason';
-$_['column_date_added']		 = 'Date Added';
-$_['column_action']			 = 'Action';
+$_['column_transaction']     = 'Идентификатор транзакции';
+$_['column_amount']          = 'Сумма';
+$_['column_type']            = 'Тип оплаты';
+$_['column_status']          = 'Статус';
+$_['column_pending_reason']  = 'В ожидании причины';
+$_['column_date_added']      = 'Дата добавления';
+$_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_capture_amount']	 = 'Capture amount';
-$_['entry_capture_complete'] = 'Complete capture';
-$_['entry_full_refund']		 = 'Full refund';
-$_['entry_amount']			 = 'Amount';
-$_['entry_note']             = 'Note';
+$_['entry_capture_amount']   = 'Сумма захвата';
+$_['entry_capture_complete'] = 'Полный захват';
+$_['entry_full_refund']      = 'Полное возмещение';
+$_['entry_amount']           = 'Сумма';
+$_['entry_note']             = 'Заметка';
 
 // Help
-$_['help_capture_complete']  = 'If this is a the last capture.';
+$_['help_capture_complete']  = 'Если это последний захват.';
 
 // Tab
-$_['tab_capture']		     = 'Capture';
-$_['tab_refund']             = 'Refund';
+$_['tab_capture']            = 'Захват';
+$_['tab_refund']             = 'Возврат';
 
 // Button
-$_['button_void']			 = 'Void';
-$_['button_capture']		 = 'Capture';
-$_['button_refund']		     = 'Issue refund';
+$_['button_void']            = 'Аннулировать';
+$_['button_capture']         = 'Захватить';
+$_['button_refund']          = 'Возврат денег';
 
 // Error
-$_['error_capture']		     = 'Enter an amount to capture';
-$_['error_transaction']	     = 'Transaction could not be carried out!';
-$_['error_not_found']	     = 'Transaction could not be found!';
-$_['error_partial_amt']		 = 'You must enter a partial refund amount';
+$_['error_capture']          = 'Введите сумму для захвата';
+$_['error_transaction']      = 'Транзакция не может быть выполнена!';
+$_['error_not_found']        = 'Транзакция не может быть найдена!';
+$_['error_partial_amt']      = 'Вы должны ввести частичную сумму возмещения';

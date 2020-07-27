@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']					 = 'PayPal Payments Standard';
+$_['heading_title']                  = 'PayPal Payments Standard';
 
 // Text
-$_['text_extension']				 = 'Extensions';
-$_['text_success']					 = 'Success: You have modified PayPal account details!';
-$_['text_edit']                      = 'Edit PayPal Payments Standard';
-$_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorization']			 = 'Authorization';
-$_['text_sale']						 = 'Sale'; 
+$_['text_extension']                 = 'Расширения';
+$_['text_success']                   = 'Успешно: Вы изменили данные учетной записи PayPal!';
+$_['text_edit']                      = 'Редактировать PayPal Payments Standard';
+$_['text_pp_standard']               = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorization']             = 'Авторизация';
+$_['text_sale']                      = 'Продажа';
 
 // Entry
-$_['entry_email']					 = 'E-Mail';
-$_['entry_test']					 = 'Sandbox Mode';
-$_['entry_transaction']				 = 'Transaction Method';
-$_['entry_debug']					 = 'Debug Mode';
-$_['entry_total']					 = 'Total';
-$_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
-$_['entry_completed_status']		 = 'Completed Status';
-$_['entry_denied_status']			 = 'Denied Status';
-$_['entry_expired_status']			 = 'Expired Status';
-$_['entry_failed_status']			 = 'Failed Status';
-$_['entry_pending_status']			 = 'Pending Status';
-$_['entry_processed_status']		 = 'Processed Status';
-$_['entry_refunded_status']			 = 'Refunded Status';
-$_['entry_reversed_status']			 = 'Reversed Status';
-$_['entry_voided_status']			 = 'Voided Status';
-$_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Status';
-$_['entry_sort_order']				 = 'Sort Order';
+$_['entry_email']                    = 'Эл. почта';
+$_['entry_test']                     = 'Режим песочницы';
+$_['entry_transaction']              = 'Метод транзакции';
+$_['entry_debug']                    = 'Режим отладки';
+$_['entry_total']                    = 'Итого';
+$_['entry_canceled_reversal_status'] = 'Статус отмененный реверсивно';
+$_['entry_completed_status']         = 'Статус завершенный';
+$_['entry_denied_status']            = 'Статус отказа';
+$_['entry_expired_status']           = 'Статус просроченный';
+$_['entry_failed_status']            = 'Статус неудавшийся';
+$_['entry_pending_status']           = 'Статус ожидания';
+$_['entry_processed_status']         = 'Статус в процессе';
+$_['entry_refunded_status']          = 'Статус возвращенный';
+$_['entry_reversed_status']          = 'Статус реверсивный';
+$_['entry_voided_status']            = 'Статус аннулированный';
+$_['entry_geo_zone']                 = 'ГеоЗона';
+$_['entry_status']                   = 'Статус';
+$_['entry_sort_order']               = 'Порядок сортировки';
 
 // Tab
-$_['tab_general']					 = 'General';
-$_['tab_order_status']       		 = 'Order Status';
+$_['tab_general']                    = 'Общие';
+$_['tab_order_status']               = 'Статус заказа';
 
 // Help
-$_['help_test']						 = 'Use the live or testing (sandbox) gateway server to process transactions?';
-$_['help_debug']			    	 = 'Logs additional information to the system log';
-$_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
+$_['help_test']                      = 'Используете сервер шлюза реального времени или тестовый (песочница) для обработки транзакций?';
+$_['help_debug']                     = 'Записывает дополнительную информацию в системный журнал';
+$_['help_total']                     = 'Общая сумма заказа, которую должен достичь заказ, прежде чем этот метод оплаты станет активным';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal!';
-$_['error_email']					 = 'E-Mail required!';
+$_['error_permission']               = 'Предупреждение: У Вас нет разрешения на изменение платежа PayPal!';
+$_['error_email']                    = 'Эл. почта обязательна!';
