@@ -3603,7 +3603,7 @@ INSERT INTO `oc_setting` (`store_id`, `code`, `key`, `value`, `serialized`) VALU
 (0, 'config', 'config_theme', 'default', 0),
 (0, 'config', 'config_layout_id', '4', 0),
 (0, 'config', 'config_country_id', '176', 0),
-(0, 'config', 'config_zone_id', '2730', 0),
+(0, 'config', 'config_zone_id', '2757', 0),
 (0, 'config', 'config_language', 'ru-ru', 0),
 (0, 'config', 'config_admin_language', 'ru-ru', 0),
 (0, 'config', 'config_currency', 'RUB', 0),
