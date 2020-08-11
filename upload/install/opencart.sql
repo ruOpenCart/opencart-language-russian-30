@@ -888,7 +888,7 @@ INSERT INTO `oc_country` (`country_id`, `name`, `iso_code_2`, `iso_code_3`, `add
 (173, 'Qatar', 'QA', 'QAT', '', 0, 0),
 (174, 'Reunion', 'RE', 'REU', '', 0, 0),
 (175, 'Romania', 'RO', 'ROM', '', 0, 0),
-(176, 'Российская Федерация', 'RU', 'RUS', '', 0, 0),
+(176, 'Российская Федерация', 'RU', 'RUS', '', 0, 1),
 (177, 'Rwanda', 'RW', 'RWA', '', 0, 0),
 (178, 'Saint Kitts and Nevis', 'KN', 'KNA', '', 0, 0),
 (179, 'Saint Lucia', 'LC', 'LCA', '', 0, 0),
