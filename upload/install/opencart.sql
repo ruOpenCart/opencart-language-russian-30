@@ -786,14 +786,14 @@ INSERT INTO `oc_country` (`country_id`, `name`, `iso_code_2`, `iso_code_3`, `add
 (70, 'Faroe Islands', 'FO', 'FRO', '', 0, 0),
 (71, 'Fiji', 'FJ', 'FJI', '', 0, 0),
 (72, 'Finland', 'FI', 'FIN', '', 0, 0),
-(74, 'France, Metropolitan', 'FR', 'FRA', '{firstname} {lastname}\r\n{company}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 1),
+(74, 'France, Metropolitan', 'FR', 'FRA', '{firstname} {lastname}\r\n{company}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 0),
 (75, 'French Guiana', 'GF', 'GUF', '', 0, 0),
 (76, 'French Polynesia', 'PF', 'PYF', '', 0, 0),
 (77, 'French Southern Territories', 'TF', 'ATF', '', 0, 0),
 (78, 'Gabon', 'GA', 'GAB', '', 0, 0),
 (79, 'Gambia', 'GM', 'GMB', '', 0, 0),
 (80, 'Грузия', 'GE', 'GEO', '', 0, 0),
-(81, 'Germany', 'DE', 'DEU', '{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 1),
+(81, 'Germany', 'DE', 'DEU', '{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 0),
 (82, 'Ghana', 'GH', 'GHA', '', 0, 0),
 (83, 'Gibraltar', 'GI', 'GIB', '', 0, 0),
 (84, 'Greece', 'GR', 'GRC', '', 0, 0),
@@ -915,7 +915,7 @@ INSERT INTO `oc_country` (`country_id`, `name`, `iso_code_2`, `iso_code_3`, `add
 (200, 'Suriname', 'SR', 'SUR', '', 0, 0),
 (201, 'Svalbard and Jan Mayen Islands', 'SJ', 'SJM', '', 0, 0),
 (202, 'Swaziland', 'SZ', 'SWZ', '', 0, 0),
-(203, 'Sweden', 'SE', 'SWE', '{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 1),
+(203, 'Sweden', 'SE', 'SWE', '{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}', 1, 0),
 (204, 'Switzerland', 'CH', 'CHE', '', 0, 0),
 (205, 'Syrian Arab Republic', 'SY', 'SYR', '', 0, 0),
 (206, 'Taiwan', 'TW', 'TWN', '', 0, 0),
@@ -934,7 +934,7 @@ INSERT INTO `oc_country` (`country_id`, `name`, `iso_code_2`, `iso_code_3`, `add
 (219, 'Uganda', 'UG', 'UGA', '', 0, 0),
 (220, 'Украина', 'UA', 'UKR', '', 0, 0),
 (221, 'United Arab Emirates', 'AE', 'ARE', '', 0, 0),
-(222, 'United Kingdom', 'GB', 'GBR', '', 1, 1),
+(222, 'United Kingdom', 'GB', 'GBR', '', 1, 0),
 (223, 'United States', 'US', 'USA', '{firstname} {lastname}\r\n{company}\r\n{address_1}\r\n{address_2}\r\n{city}, {zone} {postcode}\r\n{country}', 0, 0),
 (224, 'United States Minor Outlying Islands', 'UM', 'UMI', '', 0, 0),
 (225, 'Uruguay', 'UY', 'URY', '', 0, 0),
@@ -5866,7 +5866,7 @@ INSERT INTO `oc_zone` (`zone_id`, `country_id`, `name`, `code`, `status`) VALUES
 (1553, 101, 'Chahar Mahaal and Bakhtiari', 'CMB', 0),
 (1554, 101, 'Kohkiluyeh and Buyer Ahmad', 'KBA', 0),
 (1555, 101, 'Bushehr', 'BSH', 0),
-(1556, 101, 'Fars', 'FAR', 1);
+(1556, 101, 'Fars', 'FAR', 0);
 INSERT INTO `oc_zone` (`zone_id`, `country_id`, `name`, `code`, `status`) VALUES
 (1557, 101, 'Hormozgan', 'HRM', 0),
 (1558, 101, 'Sistan and Baluchistan', 'SBL', 0),
@@ -7366,7 +7366,7 @@ INSERT INTO `oc_zone` (`zone_id`, `country_id`, `name`, `code`, `status`) VALUES
 (3089, 203, 'Uppsala', 'C', 0),
 (3090, 203, 'Värmland', 'S', 0),
 (3091, 203, 'Västerbotten', 'AC', 0),
-(3092, 203, 'Västernorrland', 'Y', 1);
+(3092, 203, 'Västernorrland', 'Y', 0);
 INSERT INTO `oc_zone` (`zone_id`, `country_id`, `name`, `code`, `status`) VALUES
 (3093, 203, 'Västmanland', 'U', 0),
 (3094, 203, 'Västra Götaland', 'O', 0),
