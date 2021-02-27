@@ -13,7 +13,7 @@ $_['text_customer_group']  = 'Группа клиентов';
 $_['text_customer']        = 'Клиенты';
 $_['text_affiliate_all']   = 'Все партнеры';
 $_['text_affiliate']       = 'Партнеры';
-$_['text_product']         = 'Продукция';
+$_['text_product']         = 'Товар';
 
 // Entry
 $_['entry_store']          = 'От';
@@ -21,7 +21,7 @@ $_['entry_to']             = 'Кому';
 $_['entry_customer_group'] = 'Группа клиентов';
 $_['entry_customer']       = 'Клиент';
 $_['entry_affiliate']      = 'Партнер';
-$_['entry_product']        = 'Продукция';
+$_['entry_product']        = 'Товар';
 $_['entry_subject']        = 'Тема';
 $_['entry_message']        = 'Сообщение';
 

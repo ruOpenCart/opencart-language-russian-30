@@ -11,7 +11,7 @@ $_['text_date_added']                      = 'Дата добавления:';
 $_['text_status']                          = 'Статус:';
 $_['text_payment_method']                  = 'Метод оплаты:';
 $_['text_order_id']                        = 'Номер заказа:';
-$_['text_product']                         = 'Продукт:';
+$_['text_product']                         = 'Товар:';
 $_['text_quantity']                        = 'Количество:';
 $_['text_description']                     = 'Описание';
 $_['text_reference']                       = 'Ссылка';
@@ -41,7 +41,7 @@ $_['column_date_added']                    = 'Добавлен';
 $_['column_type']                          = 'Тип';
 $_['column_amount']                        = 'Сумма';
 $_['column_status']                        = 'Статус';
-$_['column_product']                       = 'Продукт';
+$_['column_product']                       = 'Товар';
 $_['column_order_recurring_id']            = 'Повторяющийся идентификатор';
 
 // Error

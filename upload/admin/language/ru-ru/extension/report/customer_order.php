@@ -15,7 +15,7 @@ $_['column_email']          = 'Эл. почта';
 $_['column_customer_group'] = 'Группа клиента';
 $_['column_status']         = 'Статус';
 $_['column_orders']         = 'Количество заказов';
-$_['column_products']       = 'Количество продукции';
+$_['column_products']       = 'Количество товаров';
 $_['column_total']          = 'Всего';
 $_['column_action']         = 'Действие';
 

@@ -17,7 +17,7 @@ $_['text_all_status']   = 'Все статусы';
 $_['column_date_start'] = 'Дата начала';
 $_['column_date_end']   = 'Дата окончания';
 $_['column_orders']     = 'Количество заказов';
-$_['column_products']   = 'Количество продукции';
+$_['column_products']   = 'Количество товаров';
 $_['column_tax']        = 'Налог';
 $_['column_total']      = 'Всего';
 

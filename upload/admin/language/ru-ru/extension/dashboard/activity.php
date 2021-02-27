@@ -15,8 +15,8 @@ $_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> запро
 $_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> добавил новый адрес.';
 $_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> обновил свой адрес.';
 $_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> удалил один из их адресов.';
-$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> отправил <a href="return_id=%d">возврат</a> продукции.';
-$_['text_activity_return_guest']   = '%s отправил <a href="return_id=%d">возврат</a> продукции.';
+$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> отправил <a href="return_id=%d">возврат</a> товара.';
+$_['text_activity_return_guest']   = '%s отправил <a href="return_id=%d">возврат</a> товара.';
 $_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> добавил <a href="order_id=%d">новый заказ</a>.';
 $_['text_activity_order_guest']    = '%s создал <a href="order_id=%d">новый заказ</a>.';
 $_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> зарегистрировал партнерский аккаунт.';

@@ -6,7 +6,7 @@ $_['heading_title']             = 'Умная кнопка PayPal';
 $_['text_extensions']           = 'Расширения';
 $_['text_edit']                 = 'Изменить модуль смарт-кнопок PayPal';
 $_['text_general']              = 'Общие';
-$_['text_product_page']         = 'Страница продукта';
+$_['text_product_page']         = 'Страница товара';
 $_['text_cart_page']            = 'Страница корзины';
 $_['text_insert_prepend']       = 'Вставить в начало';
 $_['text_insert_append']        = 'Вставить в конец';
@@ -38,7 +38,7 @@ $_['text_no']                   = 'Нет';
 
 // Entry
 $_['entry_status']              = 'Статус';
-$_['entry_product_page_status'] = 'Статус страницы продукта';
+$_['entry_product_page_status'] = 'Статус страницы товара';
 $_['entry_cart_page_status']    = 'Статус страницы корзины';
 $_['entry_insert_tag']          = 'Вставить тег';
 $_['entry_insert_type']         = 'Вставить тип';

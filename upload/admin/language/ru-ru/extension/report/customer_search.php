@@ -12,7 +12,7 @@ $_['text_customer']     = '<a href="%s">%s</a>';
 
 // Column
 $_['column_keyword']    = 'Ключевое слово';
-$_['column_products']   = 'Найденная продукция';
+$_['column_products']   = 'Найденные товары';
 $_['column_category']   = 'Категория';
 $_['column_customer']   = 'Клиент';
 $_['column_ip']         = 'IP-адрес';
