@@ -7,7 +7,7 @@ $_['text_success']         = 'Успешно: вы изменили валюты
 $_['text_list']            = 'Список валют';
 $_['text_add']             = 'Добавить валюту';
 $_['text_edit']            = 'Редактировать валюту';
-$_['text_iso']             = 'вы можете найти полный список кодов валют и настроек ISO <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">здесь</a>.';
+$_['text_iso']             = 'Вы можете найти полный список кодов валют и настроек ISO <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">здесь</a>.';
 
 // Column
 $_['column_title']         = 'Название валюты';

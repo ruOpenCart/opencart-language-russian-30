@@ -28,7 +28,7 @@ $_['text_transactions']                  = 'Транзакции';
 $_['text_column_amount']                 = 'Количество';
 $_['text_column_type']                   = 'Тип';
 $_['text_column_date_added']             = 'Добавлено';
-$_['text_confirm_refund']                = 'вы уверены, что хотите вернуть платеж?';
+$_['text_confirm_refund']                = 'Вы уверены, что хотите вернуть платеж?';
 
 // Entry
 $_['entry_service_key']                  = 'Сервисный ключ';

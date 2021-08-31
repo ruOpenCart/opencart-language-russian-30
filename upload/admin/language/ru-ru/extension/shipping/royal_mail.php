@@ -25,7 +25,7 @@ $_['entry_sort_order']                 = 'Порядок сортировки';
 // Help
 $_['help_rate']                        = 'Пример: 5:10.00,7:12.00 Вес:стоимость,вес:стоимость и т. д..';
 $_['help_insurance']                   = 'Введите значения до 5,2 десятичных знаков. (12345.67) Пример: 34:0,100:1250:2.25 - Страховое покрытие для значений корзины до 34 будет стоить дополнительно 0.00, эти значения более 100 и до 250 будут стоить дополнительно 2.25. Не вводите символы валюты.';
-$_['help_display_weight']              = 'вы хотите отобразить вес доставки? (например, вес при доставке: 2,7674 кг)';
+$_['help_display_weight']              = 'Вы хотите отобразить вес доставки? (например, вес при доставке: 2,7674 кг)';
 $_['help_display_insurance']           = 'Хотите отобразить страховку доставки? (например, Застраховано до &pound;500)';
 $_['help_international']               = '<p>Справочник по службам доставки и ценам доступен здесь:</p><p><a href="http://www.royalmail.com/international-zones" target="_blank">http://www.royalmail.com/international-zones</a></p><p><a href="http://www.royalmail.com/sites/default/files/RM_OurPrices_Mar2014a.pdf" target="_blank">http://www.royalmail.com/sites/default/files/RM_OurPrices_Mar2014a.pdf</a></p><p><a href="http://www.royalmail.com/sites/default/files/RoyalMail_International_TrackedCoverage_Jan2014.pdf" target="_blank">http://www.royalmail.com/sites/default/files/RoyalMail_International_TrackedCoverage_Jan2014.pdf</a></p>';
 

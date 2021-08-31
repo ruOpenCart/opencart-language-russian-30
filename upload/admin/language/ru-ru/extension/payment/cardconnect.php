@@ -37,8 +37,8 @@ $_['text_column_date_modified']     = 'Дата изменения';
 $_['text_column_date_added']        = 'Дата добавления';
 $_['text_column_update']            = 'Обновить';
 $_['text_column_void']              = 'Аннулировать';
-$_['text_confirm_capture']          = 'вы уверены, что хотите получить платеж?';
-$_['text_confirm_refund']           = 'вы уверены, что хотите вернуть платеж?';
+$_['text_confirm_capture']          = 'Вы уверены, что хотите получить платеж?';
+$_['text_confirm_refund']           = 'Вы уверены, что хотите вернуть платеж?';
 $_['text_inquire_success']          = 'Запрос был успешным';
 $_['text_capture_success']          = 'Запрос на получение был успешным';
 $_['text_refund_success']           = 'Запрос на возврат был успешным';
@@ -65,9 +65,9 @@ $_['entry_order_status_pending']    = 'В ожидании';
 $_['entry_order_status_processing'] = 'В обработке';
 
 // Help
-$_['help_merchant_id']              = 'ваш личный идентификатор продавца в учетной записи CardConnect.';
-$_['help_api_username']             = 'ваше имя пользователя для доступа к API CardConnect.';
-$_['help_api_password']             = 'ваш пароль для доступа к API CardConnect.';
+$_['help_merchant_id']              = 'Ваш личный идентификатор продавца в учетной записи CardConnect.';
+$_['help_api_username']             = 'Ваше имя пользователя для доступа к API CardConnect.';
+$_['help_api_password']             = 'Ваш пароль для доступа к API CardConnect.';
 $_['help_token']                    = 'Введите случайный токен для безопасности или используйте сгенерированный.';
 $_['help_transaction']              = 'Выберите «Платеж», чтобы немедленно получить платеж, или «Авторизовать», чтобы подтвердить его.';
 $_['help_site']                     = 'Это определяет первую часть URL API. Изменять только в случае указания.';

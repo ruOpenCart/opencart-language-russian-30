@@ -24,7 +24,7 @@ $_['text_close']                    = 'Закрыть';
 $_['text_pagination']               = 'Показано с %d по %d из %d (всего страниц: %d)';
 $_['text_loading']                  = 'Загрузка...';
 $_['text_no_results']               = 'Нет результатов!';
-$_['text_confirm']                  = 'вы уверены?';
+$_['text_confirm']                  = 'Вы уверены?';
 $_['text_home']                     = 'Главная';
 
 // Button

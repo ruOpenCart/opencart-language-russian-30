@@ -6,9 +6,9 @@ $_['heading_title']        = 'Регистрация';
 $_['text_account']         = 'Личный кабинет';
 $_['text_register']        = 'Регистрация';
 $_['text_account_already'] = 'Если у вас уже есть учетная запись, пожалуйста, авторизуйтесь на <a href="%s">странице входа</a>.';
-$_['text_your_details']    = 'ваши персональные данные';
+$_['text_your_details']    = 'Ваши персональные данные';
 $_['text_newsletter']      = 'Новостная рассылка';
-$_['text_your_password']   = 'ваш пароль';
+$_['text_your_password']   = 'Ваш пароль';
 $_['text_agree']           = 'Я прочитал и согласен с <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry

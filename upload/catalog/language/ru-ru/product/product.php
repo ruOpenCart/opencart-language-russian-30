@@ -33,8 +33,8 @@ $_['text_year']                = 'год';
 
 // Entry
 $_['entry_qty']                = 'Кол-во';
-$_['entry_name']               = 'ваше имя';
-$_['entry_review']             = 'ваш отзыв';
+$_['entry_name']               = 'Ваше имя';
+$_['entry_review']             = 'Ваш отзыв';
 $_['entry_rating']             = 'Рейтинг';
 $_['entry_good']               = 'Хорошо';
 $_['entry_bad']                = 'Плохо';
