@@ -1,13 +1,17 @@
 # Русский язык для OpenCart 3.0
+
 Перевод на русский язык OpenCart 3.0
 
 ## Переведены папки
+
 * admin
 * catalog
 * install (в т.ч. opencart.sql)
 
 ## Установка
-### Ручная установка русификатора для OpenCart 3:
+
+### Ручная установка русификатора для OpenCart 3
+
 1. Скопируйте в корень вашего магазина на OpenCart все из папки upload
 2. В панели управления перейти в "System -> Localisation -> Languages -> Add new"
     * Language Name -> "Русский"
@@ -22,17 +26,22 @@
 7. Нажмите после выбора "Save"
 
 ### Совместимые версии OpenCart
+
 * 3.0.3.x
 
 ### Актуальная версия OpenCart
-* 3.0.3.3
+
+* 3.0.3.8
 
 ### Ресурсы
+
 * [OpenCart](https://opencart.com/)
 * [Русскоязычное сообщество](https://forum.opencart.name/)
 * [Тема поддержки перевода](https://forum.opencart.name/resources/Русский-язык-для-opencart-3-0.9/)
 
 ### Оригинальный опенкарт с интегрированным русификатором
+
 Русская сборка на базе оригинального опенкарт с переводом и установкой на русском языке
+
 * [Тема на форуме OpenCart Russian Edition 3](https://forum.opencart.name/resources/opencart-russian-edition.13/)
 * [Репозиторий OpenCart Russian Edition 3](https://github.com/ruOpenCart/opencart-russian-edition/releases)
