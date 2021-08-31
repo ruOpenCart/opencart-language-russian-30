@@ -6,8 +6,6 @@
 
 -----------------------------------------------------------
 
-SET sql_mode = '';
-
 --
 -- Table structure for table `oc_address`
 --
@@ -3642,7 +3640,7 @@ INSERT INTO `oc_setting` (`store_id`, `code`, `key`, `value`, `serialized`) VALU
 (0, 'config', 'config_affiliate_id', '4', 0),
 (0, 'config', 'config_return_id', '0', 0),
 (0, 'config', 'config_return_status_id', '2', 0),
-(0, 'config', 'config_logo', 'catalog/logo.png', 0),
+(0, 'config', 'config_logo', 'catalog/opencart-logo.png', 0),
 (0, 'config', 'config_icon', 'catalog/cart.png', 0),
 (0, 'config', 'config_comment', '', 0),
 (0, 'config', 'config_open', '', 0),
@@ -7780,12 +7778,12 @@ INSERT INTO `oc_zone` (`zone_id`, `country_id`, `name`, `code`, `status`) VALUES
 (3500, 220, 'Черниговская область', 'CHNO', 0),
 (3501, 220, 'Черновицкая область', 'CHVO', 0),
 (3502, 220, 'Киев', '23', 0),
-(3506, 221, 'Abu Dhabi', 'ADH', 0),
-(3507, 221, '''Ajman', 'AJ', 0),
-(3508, 221, 'Al Fujayrah', 'FU', 0),
-(3509, 221, 'Ash Shariqah', 'SH', 0),
-(3510, 221, 'Dubai', 'DU', 0),
-(3511, 221, 'R''as al Khaymah', 'RK', 0),
+(3506, 221, 'Abū Z̧aby', 'AZ', 1),
+(3507, 221, '‘Ajmān', 'AJ', 1),
+(3508, 221, 'Al Fujayrah', 'FU', 1),
+(3509, 221, 'Ash Shāriqah', 'SH', 1),
+(3510, 221, 'Dubai', 'DU', 1),
+(3511, 221, 'Ra’s al Khaymah', 'RK', 1),
 (3512, 221, 'Umm al Qaywayn', 'UQ', 0),
 (3513, 222, 'Aberdeen', 'ABN', 0),
 (3514, 222, 'Aberdeenshire', 'ABNS', 0),
