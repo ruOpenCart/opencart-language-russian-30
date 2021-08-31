@@ -4,8 +4,8 @@ $_['heading_title']  = 'Изменение пароля';
 
 // Text
 $_['text_account']   = 'Личный кабинет';
-$_['text_password']  = 'Ваш пароль';
-$_['text_success']   = 'Ваш пароль был успешно обновлен.';
+$_['text_password']  = 'ваш пароль';
+$_['text_success']   = 'ваш пароль был успешно обновлен.';
 
 // Entry
 $_['entry_password'] = 'Пароль';

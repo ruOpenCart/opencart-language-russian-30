@@ -4,7 +4,7 @@ $_['heading_title']                  = 'Globalpay Redirect';
 
 // Text
 $_['text_extension']                 = 'Расширения';
-$_['text_success']                   = 'Успешно: Вы изменили детали учетной записи Globalpay!';
+$_['text_success']                   = 'Успешно: вы изменили детали учетной записи Globalpay!';
 $_['text_edit']                      = 'Редактировать Globalpay Redirect';
 $_['text_live']                      = 'Реальный';
 $_['text_demo']                      = 'Demo';
@@ -40,9 +40,9 @@ $_['text_transactions']              = 'Транзакции';
 $_['text_column_amount']             = 'Количество';
 $_['text_column_type']               = 'Тип';
 $_['text_column_date_added']         = 'Создан';
-$_['text_confirm_void']              = 'Вы уверены, что хотите аннулировать платеж?';
-$_['text_confirm_capture']           = 'Вы уверены, что хотите получить платеж?';
-$_['text_confirm_rebate']            = 'Вы уверены, что хотите вернуть платеж?';
+$_['text_confirm_void']              = 'вы уверены, что хотите аннулировать платеж?';
+$_['text_confirm_capture']           = 'вы уверены, что хотите получить платеж?';
+$_['text_confirm_rebate']            = 'вы уверены, что хотите вернуть платеж?';
 $_['text_globalpay']                 = '<a target="_blank" href="https://www.globalpaymentsinc.com/en-ie/accept-payments/ecommerce/partners/opencart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_void']                      = 'Аннулировать';
 $_['text_payment']                   = 'Оплата';
@@ -76,9 +76,9 @@ $_['entry_notification_url']         = 'URL уведомлений';
 // Help
 $_['help_total']                     = 'Общая сумма, которую должен достичь заказ, прежде чем этот метод оплаты станет активным';
 $_['help_card_select']               = 'Попросите пользователя выбрать тип своей карты, прежде чем он будет перенаправлен';
-$_['help_notification']              = 'Вам необходимо указать этот URL для Globalpay, чтобы получать уведомления о платежах';
-$_['help_debug']                     = 'Включение отладки приведет к записи конфиденциальных данных в файл журнала. Вы должны всегда отключать, если не указано иное';
-$_['help_dcc_settle']                = 'Если Ваш субсчет DCC включен, Вы должны использовать Autosettle';
+$_['help_notification']              = 'вам необходимо указать этот URL для Globalpay, чтобы получать уведомления о платежах';
+$_['help_debug']                     = 'Включение отладки приведет к записи конфиденциальных данных в файл журнала. вы должны всегда отключать, если не указано иное';
+$_['help_dcc_settle']                = 'Если ваш субсчет DCC включен, вы должны использовать Autosettle';
 
 // Tab
 $_['tab_api']                        = 'Детали API';
@@ -98,4 +98,4 @@ $_['error_secret']                   = 'Общий секрет обязател
 $_['error_live_url']                 = 'Реальный URL обязателен';
 $_['error_demo_url']                 = 'Демо URL обязателен';
 $_['error_data_missing']             = 'Данные отсутствуют';
-$_['error_use_select_card']          = 'Вы должны включить «Выбрать карту» для маршрутизации субсчета по типу карты для работы';
+$_['error_use_select_card']          = 'вы должны включить «Выбрать карту» для маршрутизации субсчета по типу карты для работы';

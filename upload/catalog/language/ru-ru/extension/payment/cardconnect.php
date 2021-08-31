@@ -6,7 +6,7 @@ $_['text_echeck_details']   = 'Подробности eCheck';
 $_['text_card']             = 'Карта';
 $_['text_echeck']           = 'eCheck';
 $_['text_wait']             = 'Пожалуйста, подождите!';
-$_['text_confirm_delete']   = 'Вы уверены, что хотите удалить карту?';
+$_['text_confirm_delete']   = 'вы уверены, что хотите удалить карту?';
 $_['text_no_cards']         = 'Карты еще не сохранены';
 $_['text_select_card']      = 'Пожалуйста, выберите карту';
 

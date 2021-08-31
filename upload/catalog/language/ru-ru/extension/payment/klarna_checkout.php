@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']               = 'Klarna Checkout';
-$_['heading_title_success']       = 'Ваш заказ Klarna Checkout был размещен!';
+$_['heading_title_success']       = 'ваш заказ Klarna Checkout был размещен!';
 
 // Text
 $_['text_title']                  = 'Klarna Checkout';

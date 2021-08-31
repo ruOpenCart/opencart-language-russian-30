@@ -8,7 +8,7 @@
 
 ## Установка
 ### Ручная установка русификатора для OpenCart 3:
-1. Скопируйте в корень Вашего магазина на OpenCart все из папки upload
+1. Скопируйте в корень вашего магазина на OpenCart все из папки upload
 2. В панели управления перейти в "System -> Localisation -> Languages -> Add new"
     * Language Name -> "Русский"
     * Code -> "ru-ru"

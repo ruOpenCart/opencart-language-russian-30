@@ -4,14 +4,14 @@ $_['heading_title']             = 'eWAY Payment';
 
 // Text
 $_['text_extension']            = 'Расширения';
-$_['text_success']              = 'Успешно: Вы изменили Ваш eWAY details!';
+$_['text_success']              = 'Успешно: вы изменили ваш eWAY details!';
 $_['text_edit']                 = 'Редактировать eWAY';
 $_['text_eway']                 = '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorisation']        = 'Авторизация';
 $_['text_sale']                 = 'Продажа';
 $_['text_transparent']          = 'Прозрачный редирект (форма оплаты на сайте)';
 $_['text_iframe']               = 'IFrame (форма оплаты в окне)';
-$_['text_connect_eway']         = 'Начните принимать платежи по кредитным картам с помощью eWAY и OpenCart всего за 5 минут. У Вас нет учетной записи eWAY <a target="_blank" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf">кликните здесь</a>';
+$_['text_connect_eway']         = 'Начните принимать платежи по кредитным картам с помощью eWAY и OpenCart всего за 5 минут. У вас нет учетной записи eWAY <a target="_blank" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf">кликните здесь</a>';
 $_['text_eway_image']           = '<a target="_BLANK" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf"><img src="view/image/payment/eway_connect.png" alt="eWAY" title="eWAY" class="img-fluid" /></a>';
 
 // Entry
@@ -30,15 +30,15 @@ $_['entry_sort_order']          = 'Порядок сортировки';
 $_['entry_transaction_method']  = 'Метод транзакции';
 
 // Error
-$_['error_permission']          = 'Предупреждение: У Вас нет разрешения на изменение модуля оплаты eWAY';
+$_['error_permission']          = 'Предупреждение: У вас нет разрешения на изменение модуля оплаты eWAY';
 $_['error_username']            = 'eWAY API ключ обязателен!';
 $_['error_password']            = 'eWAY пароль обязателен!';
 $_['error_payment_type']        = 'Требуется хотя бы один тип оплаты!';
 
 // Help hints
 $_['help_testmode']             = 'Установите Да, чтобы использовать песочницу eWAY.';
-$_['help_username']             = 'Ваш eWAY API ключ от Вашей учетной записи MYeWAY.';
-$_['help_password']             = 'Ваш eWAY API пароль от Вашей учетной записи MYeWAY.';
+$_['help_username']             = 'ваш eWAY API ключ от вашей учетной записи MYeWAY.';
+$_['help_password']             = 'ваш eWAY API пароль от вашей учетной записи MYeWAY.';
 $_['help_transaction_method']   = 'Авторизация доступна только для банков Австралии';
 
 // Order page - payment tab
@@ -61,9 +61,9 @@ $_['text_capture_failed']       = 'Получение не удалось: ';
 $_['text_unknown_failure']      = 'Неверный заказ или сумма';
 $_['text_refund']               = 'Возврат';
 
-$_['text_confirm_capture']      = 'Вы уверены, что хотите получить платеж?';
-$_['text_confirm_release']      = 'Вы уверены, что хотите разблокировать платеж?';
-$_['text_confirm_refund']       = 'Вы уверены, что хотите вернуть платеж?';
+$_['text_confirm_capture']      = 'вы уверены, что хотите получить платеж?';
+$_['text_confirm_release']      = 'вы уверены, что хотите разблокировать платеж?';
+$_['text_confirm_refund']       = 'вы уверены, что хотите вернуть платеж?';
 
 $_['text_empty_refund']         = 'Пожалуйста, введите сумму для возврата';
 $_['text_empty_capture']        = 'Пожалуйста, введите сумму, чтобы получить';

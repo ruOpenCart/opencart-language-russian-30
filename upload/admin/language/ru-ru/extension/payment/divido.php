@@ -7,7 +7,7 @@ $_['text_divido']                      = '<a href="http://divido.com" target="_b
 $_['text_edit']                        = 'Редактировать Divido';
 $_['text_extension']                   = 'Расширения';
 $_['text_order_info']                  = 'Divido информация';
-$_['text_success']                     = 'Успешно: Вы изменили модуль Divido';
+$_['text_success']                     = 'Успешно: вы изменили модуль Divido';
 $_['text_proposal_id']                 = 'Идентификатор предложения';
 $_['text_application_id']              = 'Идентификатор приложения';
 $_['text_deposit_amount']              = 'Сумма депозита';
@@ -32,7 +32,7 @@ $_['entry_threshold_list']             = 'Порог плана';
 $_['entry_category']                   = 'Категории';
 
 // Help
-$_['help_api_key']                     = 'Ключ, который идентифицирует Вас с Divido (полученный от Divido)';
+$_['help_api_key']                     = 'Ключ, который идентифицирует вас с Divido (полученный от Divido)';
 $_['help_status']                      = 'Статус метода оплаты';
 $_['help_order_status']                = 'Статус заказа, когда утвердил кредитор';
 $_['help_title']                       = 'Название опции оплаты, отображаемое при оформлении';
