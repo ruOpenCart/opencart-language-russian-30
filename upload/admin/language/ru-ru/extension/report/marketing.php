@@ -19,7 +19,6 @@ $_['column_total']     = 'Всего';
 // Entry
 $_['entry_date_start'] = 'Дата начала';
 $_['entry_date_end']   = 'Дата окончания';
-$_['entry_status']     = 'Статус заказа';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
