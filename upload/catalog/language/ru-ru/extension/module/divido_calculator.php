@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/module/divido_calculator.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Calculator
 $_['text_checkout_title']      = 'Оплата в рассрочку';
 $_['text_choose_plan']         = 'Выберите план';

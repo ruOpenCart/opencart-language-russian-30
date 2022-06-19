@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/recurring/squareup.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Text
 $_['text_title']                = 'Square';
 $_['text_canceled']             = 'Успешно: Вы успешно отменили этот платеж! Мы отправили вам подтверждение по электронной почте.';

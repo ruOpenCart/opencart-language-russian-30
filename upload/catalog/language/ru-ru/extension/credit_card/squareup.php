@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/credit_card/squareup.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 
 $_['heading_title']            = 'Square Credit Cards';
 

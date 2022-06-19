@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/payment/klarna_account.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Text
 $_['text_title']             = 'Klarna Account - Оплата от %s/месяц';
 $_['text_terms']             = '<span id="klarna_account_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Account({el: \'klarna_account_toc\', eid: \'%s\', country: \'%s\'});</script>';

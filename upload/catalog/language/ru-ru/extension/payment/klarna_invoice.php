@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/payment/klarna_invoice.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Text
 $_['text_title']             = 'Klarna Invoice - Оплата в течение 14 дней';
 $_['text_terms_fee']         = '<span id="klarna_invoice_toc"></span> (+%s)<script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\', charge: %s});</script>';

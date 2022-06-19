@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/payment/securetrading_ws.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 $_['text_title']                        = 'Кредитная / Дебетовая карта';
 $_['text_card_details']                 = 'Детали карты';
 $_['text_wait']                         = 'Обработка вашего платежа';

@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/api/voucher.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Text
 $_['text_success']     = 'Успешно: ваша подарочный сертификат была применен!';
 $_['text_cart']        = 'Успешно: Вы изменили свою корзину!';

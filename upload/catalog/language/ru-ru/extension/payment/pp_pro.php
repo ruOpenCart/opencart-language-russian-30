@@ -1,4 +1,13 @@
 <?php
+/**
+ * @package    Русский язык для OpenCart 3.x
+ * @file       catalog/language/ru-ru/extension/payment/pp_pro.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
 // Text
 $_['text_title']           = 'Кредитная или дебетовая карта (безопасно обрабатывается PayPal)';
 $_['text_wait']            = 'Пожалуйста, подождите!';
