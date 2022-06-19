@@ -1,9 +1,18 @@
 <?php
 /**
- * @package        OpenCart
- * @author        Meng Wenbin
- * @copyright    Copyright (c) 2010 - 2017, Chengdu Guangda Network Technology Co. Ltd. (https://www.opencart.cn/)
- * @license        https://opensource.org/licenses/GPL-3.0
+ * @package    Русский язык для OpenCart 3.x
+ * @file       admin/language/ru-ru/extension/payment/wechat_pay.php
+ * @author     Hkr32
+ * @copyright  © OCN, (https://opencart.name)
+ * @license    https://opensource.org/licenses/GPL-3.0
+ * @link       https://forum.opencart.name
+ */
+
+/**
+ * @package     OpenCart
+ * @author      Meng Wenbin
+ * @copyright   Copyright (c) 2010 - 2017, Chengdu Guangda Network Technology Co. Ltd. (https://www.opencart.cn/)
+ * @license     https://opensource.org/licenses/GPL-3.0
  * @link        https://www.opencart.cn
  */
 
