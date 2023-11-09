@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @package    Русский язык для OpenCart 3.x
  * @file       catalog/language/ru-ru/common/menu.php
@@ -9,4 +10,5 @@
  */
 
 // Text
-$_['text_all'] = 'Показать все';
+$_['text_category']  = 'Категории';
+$_['text_all']       = 'Показать все';
