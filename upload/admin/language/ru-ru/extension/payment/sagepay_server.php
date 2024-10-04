@@ -15,7 +15,6 @@ $_['heading_title']           = 'SagePay Server';
 $_['text_extension']          = 'Расширения';
 $_['text_success']            = 'Успешно: Вы изменили детали учетной записи SagePay!';
 $_['text_edit']               = 'Редактировать SagePay Server';
-$_['text_sagepay_server']     = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']                = 'Симулятор';
 $_['text_test']               = 'Тестовый';
 $_['text_live']               = 'Реальный';
@@ -42,7 +41,6 @@ $_['text_confirm_void']       = 'Вы уверены, что хотите анн
 $_['text_confirm_release']    = 'Вы уверены, что хотите разблокировать платеж?';
 $_['text_confirm_rebate']     = 'Вы уверены, что хотите вернуть платеж?';
 $_['text_void']               = 'Аннулировать';
-$_['text_payment']            = 'Оплата';
 $_['text_rebate']             = 'Скидка';
 
 // Entry
