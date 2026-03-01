@@ -55,7 +55,7 @@ $_['text_confirm_rebate']            = 'Вы уверены, что хотите
 $_['text_globalpay']                 = '<a target="_blank" href="https://www.globalpaymentsinc.com/en-ie/accept-payments/ecommerce/partners/opencart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_void']                      = 'Аннулировать';
 $_['text_payment']                   = 'Оплата';
-$_['text_rebate']                    = 'Скидка';
+$_['text_rebate']                    = 'Возврат';
 
 // Entry
 $_['entry_merchant_id']              = 'Идентификатор продавца';
@@ -86,8 +86,8 @@ $_['entry_notification_url']         = 'URL уведомлений';
 $_['help_total']                     = 'Общая сумма, которую должен достичь заказ, прежде чем этот метод оплаты станет активным';
 $_['help_card_select']               = 'Попросите пользователя выбрать тип своей карты, прежде чем он будет перенаправлен';
 $_['help_notification']              = 'Вам необходимо указать этот URL для Globalpay, чтобы получать уведомления о платежах';
-$_['help_debug']                     = 'Включение отладки приведет к записи конфиденциальных данных в файл журнала. вы должны всегда отключать, если не указано иное';
-$_['help_dcc_settle']                = 'Если ваш субсчет DCC включен, вы должны использовать Autosettle';
+$_['help_debug']                     = 'Включение отладки приведет к записи конфиденциальных данных в файл журнала. Вы должны всегда отключать, если не указано иное';
+$_['help_dcc_settle']                = 'Если Ваш субсчет DCC включен, Вы должны использовать Autosettle';
 
 // Tab
 $_['tab_api']                        = 'Детали API';

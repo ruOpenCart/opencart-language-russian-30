@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/marketing/contact.php
+ * @file       admin/language/ru-ru/marketing/contact.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -22,7 +22,7 @@ $_['text_customer_group']  = 'Группа клиентов';
 $_['text_customer']        = 'Клиенты';
 $_['text_affiliate_all']   = 'Все партнеры';
 $_['text_affiliate']       = 'Партнеры';
-$_['text_product']         = 'Товар';
+$_['text_product']         = 'Продукция';
 
 // Entry
 $_['entry_store']          = 'От';
@@ -30,7 +30,7 @@ $_['entry_to']             = 'Кому';
 $_['entry_customer_group'] = 'Группа клиентов';
 $_['entry_customer']       = 'Клиент';
 $_['entry_affiliate']      = 'Партнер';
-$_['entry_product']        = 'Товар';
+$_['entry_product']        = 'Продукция';
 $_['entry_subject']        = 'Тема';
 $_['entry_message']        = 'Сообщение';
 
@@ -40,7 +40,7 @@ $_['help_affiliate']       = '(Автодополнение)';
 $_['help_product']         = 'Отправлять только тем клиентам, которые заказали товары в списке. (Автодополнение)';
 
 // Error
-$_['error_permission']     = 'Предупреждение: У вас нет разрешения на отправку электронной почты!';
+$_['error_permission']     = 'Предупреждение: У Вас нет разрешения на отправку электронной почты!';
 $_['error_subject']        = 'Тема обязательна!';
 $_['error_message']        = 'Сообщение обязательно!';
 $_['error_email']          = 'Эл. почта обязательна!';

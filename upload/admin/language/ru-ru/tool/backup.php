@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/tool/backup.php
+ * @file       admin/language/ru-ru/tool/backup.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -23,6 +23,6 @@ $_['tab_backup']       = 'Резервное копирование';
 $_['tab_restore']      = 'Восстановление';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет прав на изменение резервных копий и восстановления!';
+$_['error_permission'] = 'Предупреждение: У Вас нет прав на изменение резервных копий и восстановления!';
 $_['error_export']     = 'Предупреждение: Вы должны выбрать хотя бы одну таблицу для экспорта!';
 $_['error_file']       = 'Файл не найден!';

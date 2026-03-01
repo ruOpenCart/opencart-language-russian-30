@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/sale/voucher.php
+ * @file       admin/language/ru-ru/sale/voucher.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -45,7 +45,7 @@ $_['entry_status']      = 'Статус';
 $_['help_code']         = 'Код, который клиент вводит для активации сертификата.';
 
 // Error
-$_['error_permission']  = 'Предупреждение: У вас нет разрешения изменять сертификаты!';
+$_['error_permission']  = 'Предупреждение: У Вас нет разрешения изменять сертификаты!';
 $_['error_exists']      = 'Предупреждение: Код сертификата уже используется!';
 $_['error_code']        = 'Код должен быть от 3 до 10 символов!';
 $_['error_to_name']     = 'Имя получателя должно быть от 1 до 64 символов!';

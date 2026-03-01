@@ -20,4 +20,4 @@ $_['text_edit']        = 'Редактировать модуль Pilibaba Check
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет прав на изменение модуля Pilibaba Checkout Button!';
+$_['error_permission'] = 'Предупреждение: У Вас нет прав на изменение модуля Pilibaba Checkout Button!';

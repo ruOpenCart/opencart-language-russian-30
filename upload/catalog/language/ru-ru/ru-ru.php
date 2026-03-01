@@ -16,13 +16,13 @@ $_['date_format_long']      = 'l d F Y';
 $_['time_format']           = 'H:i:s';
 $_['datetime_format']       = 'd.m.Y H:i:s';
 $_['decimal_point']         = '.';
-$_['thousand_point']        = ' ';
+$_['thousand_point']        = '\'';
 
 // Text
 $_['text_home']             = '<i class="fa fa-home"></i>';
 $_['text_yes']              = 'Да';
 $_['text_no']               = 'Нет';
-$_['text_none']             = ' --- Ничего --- ';
+$_['text_none']             = ' --- Нечего выбрать --- ';
 $_['text_select']           = ' --- Пожалуйста, выберите --- ';
 $_['text_all_zones']        = 'Все зоны';
 $_['text_pagination']       = 'Показано с %d по %d из %d (всего страниц: %d)';

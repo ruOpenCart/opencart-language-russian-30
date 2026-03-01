@@ -35,7 +35,7 @@ $_['help_total']                     = 'Общая сумма, которую д
 $_['help_alipay_setup']              = '<a target="_blank" href="http://www.opencart.cn/docs/alipay">Нажмите здесь</a>, чтобы узнать, как настроить учетную запись Alipay.';
 
 // Error
-$_['error_permission']               = 'Предупреждение: У вас нет разрешения на изменение оплаты Alipay!';
+$_['error_permission']               = 'Предупреждение: У Вас нет разрешения на изменение оплаты Alipay!';
 $_['error_app_id']                   = 'Идентификатор приложения обязателен!';
 $_['error_merchant_private_key']     = 'Приватный ключ продавца обязателен!';
 $_['error_alipay_public_key']        = 'Публичный ключ Alipay обязателен!';

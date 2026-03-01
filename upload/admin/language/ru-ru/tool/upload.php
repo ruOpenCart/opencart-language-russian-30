@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/tool/upload.php
+ * @file       admin/language/ru-ru/tool/upload.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -27,6 +27,6 @@ $_['entry_filename']    = 'Имя файла';
 $_['entry_date_added']  = 'Дата добавления';
 
 // Error
-$_['error_permission']  = 'Предупреждение: У вас нет прав на изменение загрузок!';
+$_['error_permission']  = 'Предупреждение: У Вас нет прав на изменение загрузок!';
 $_['error_upload']      = 'Неверная загрузка!';
-$_['error_file']        = 'Загрузить файл не найден!';
+$_['error_file']        = 'Файл загрузки не найден!';

@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/report/statistics.php.php
+ * @file       admin/language/ru-ru/report/statistics.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -30,4 +30,4 @@ $_['column_value']	        = 'Значение';
 $_['column_action']         = 'Действие';
 
 // Error
-$_['error_permission']      = 'Предупреждение: У вас нет прав на изменение статистики!';
+$_['error_permission']      = 'Предупреждение: У Вас нет прав на изменение статистики!';

@@ -9,18 +9,18 @@
  */
 
 // Heading
-$_['heading_title']                        = 'Регулярные платежи';
+$_['heading_title']                        = 'Периодические платежи';
 
 // Text
 $_['text_account']                         = 'Личный кабинет';
-$_['text_recurring']                       = 'Регулярные платежи';
-$_['text_recurring_detail']                = 'Детали региональных платежей';
+$_['text_recurring']                       = 'Периодические платежи';
+$_['text_recurring_detail']                = 'Детали периодических платежей';
 $_['text_order_recurring_id']              = 'Повторяющийся идентификатор:';
 $_['text_date_added']                      = 'Дата добавления:';
 $_['text_status']                          = 'Статус:';
 $_['text_payment_method']                  = 'Метод оплаты:';
 $_['text_order_id']                        = 'Номер заказа:';
-$_['text_product']                         = 'Товар:';
+$_['text_product']                         = 'Продукт:';
 $_['text_quantity']                        = 'Количество:';
 $_['text_description']                     = 'Описание';
 $_['text_reference']                       = 'Ссылка';
@@ -41,16 +41,16 @@ $_['text_transaction_suspended']           = 'Ожидающий';
 $_['text_transaction_suspended_failed']    = 'Приостановлено из-за неудачного платежа';
 $_['text_transaction_outstanding_failed']  = 'Не удалось оплатить';
 $_['text_transaction_expired']             = 'Истекший';
-$_['text_empty']                           = 'Регулярные платежи не найдены!';
-$_['text_error']                           = 'Не удалось найти запрашиваемый вами повторяющийся заказ!';
-$_['text_cancelled']                       = 'Регулярный платеж был отменен';
+$_['text_empty']                           = 'Периодические платежи не найдены!';
+$_['text_error']                           = 'Не удалось найти запрашиваемый Вами повторяющийся заказ!';
+$_['text_cancelled']                       = 'Периодический платеж был отменен';
 
 // Column
 $_['column_date_added']                    = 'Добавлен';
 $_['column_type']                          = 'Тип';
 $_['column_amount']                        = 'Сумма';
 $_['column_status']                        = 'Статус';
-$_['column_product']                       = 'Товар';
+$_['column_product']                       = 'Продукт';
 $_['column_order_recurring_id']            = 'Повторяющийся идентификатор';
 
 // Error

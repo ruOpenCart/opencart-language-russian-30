@@ -39,4 +39,4 @@ $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Сортировка';
 
 //Error
-$_['error_permission']      = 'Предупреждение: у вас нет прав на изменение модуля Login with Amazon!';
+$_['error_permission']      = 'Предупреждение: у Вас нет прав на изменение модуля Login with Amazon!';

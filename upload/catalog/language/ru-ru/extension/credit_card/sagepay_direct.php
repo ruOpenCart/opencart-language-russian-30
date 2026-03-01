@@ -12,7 +12,7 @@
 $_['heading_title']         = 'Sagepay Direct Cards';
 
 // Text
-$_['text_empty']            = 'У вас нет сохраненных карт';
+$_['text_empty']            = 'У Вас нет сохранённых карт';
 $_['text_account']          = 'Личный кабинет';
 $_['text_card']             = 'SagePay Direct Card Management';
 $_['text_fail_card']	    = 'Возникла проблема с удалением вашей карты SagePay. Обратитесь за помощью к администратору магазина.';

@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/sale/voucher_theme.php
+ * @file       admin/language/ru-ru/sale/voucher_theme.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -27,7 +27,7 @@ $_['entry_description'] = 'Описание темы сертификата';
 $_['entry_image']       = 'Изображение';
 
 // Error
-$_['error_permission']  = 'Предупреждение: У вас нет прав на изменение тем сертификата!';
+$_['error_permission']  = 'Предупреждение: У Вас нет прав на изменение тем сертификата!';
 $_['error_name']        = 'Название темы сертификата должно быть от 3 до 32 символов!';
 $_['error_image']       = 'Изображение обязательно!';
 $_['error_voucher']     = 'Предупреждение: Эту тему сертификата нельзя удалить, так как она в настоящее время назначена %s сертификатам!';

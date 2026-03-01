@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package    Русский язык для OpenCart 3.x
  * @file       catalog/language/ru-ru/extension/recurring/paypal.php
@@ -10,9 +9,9 @@
  */
 
 // Button
-$_['button_enable_recurring']                = 'Включить повторяющийся платеж';
-$_['button_disable_recurring']               = 'Выключить повторяющийся платеж';
+$_['button_enable_recurring']				= 'Включить подписку';
+$_['button_disable_recurring']				= 'Отключить подписку';
 
 // Success
-$_['success_enable_recurring']               = 'Успех: Повторяющийся платеж был включен.';
-$_['success_disable_recurring']              = 'Успех: Повторяющийся платеж был выключен.';
+$_['success_enable_recurring']				= 'Успешно: Периодическая оплата включена.';
+$_['success_disable_recurring']				= 'Успешно: Периодическая оплата отключена.';

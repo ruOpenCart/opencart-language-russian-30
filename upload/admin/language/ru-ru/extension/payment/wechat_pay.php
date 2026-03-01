@@ -9,10 +9,10 @@
  */
 
 /**
- * @package     OpenCart
- * @author      Meng Wenbin
- * @copyright   Copyright (c) 2010 - 2017, Chengdu Guangda Network Technology Co. Ltd. (https://www.opencart.cn/)
- * @license     https://opensource.org/licenses/GPL-3.0
+ * @package        OpenCart
+ * @author        Meng Wenbin
+ * @copyright    Copyright (c) 2010 - 2017, Chengdu Guangda Network Technology Co. Ltd. (https://www.opencart.cn/)
+ * @license        https://opensource.org/licenses/GPL-3.0
  * @link        https://www.opencart.cn
  */
 
@@ -44,7 +44,7 @@ $_['help_currency']                  = 'Валюта покупателя опл
 $_['help_wechat_pay_setup']          = '<a target="_blank" href="https://www.opencart.cn/docs/wechat-pay">Нажмите здесь</a>, чтобы узнать, как настроить учетную запись Wechat Pay.';
 
 // Error
-$_['error_permission']               = 'Предупреждение: У вас нет разрешения на изменение оплаты Wechat!';
+$_['error_permission']               = 'Предупреждение: У Вас нет разрешения на изменение оплаты Wechat!';
 $_['error_app_id']                   = 'Идентификатор приложения обязателен!';
 $_['error_app_secret']               = 'Секрет приложения обязателен!';
 $_['error_mch_id']                   = 'Идентификатор продавца обязателен!';

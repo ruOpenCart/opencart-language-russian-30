@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package    Русский язык для OpenCart 3.x
  * @file       admin/language/ru-ru/extension/extension/advertise.php
@@ -9,19 +8,18 @@
  * @link       https://forum.opencart.name
  */
 
-
 // Heading
-$_['heading_title'] = "Реклама";
+$_['heading_title'] = 'Реклама';
 
 
 // Columns
-$_['column_name']   = "Рекламное название";
-$_['column_status'] = "Статус";
-$_['column_action'] = "Действие";
+$_['column_name']   = 'Название';
+$_['column_status'] = 'Статус';
+$_['column_action'] = 'Действие';
 
 
 // Text
-$_['text_success']   = "<strong>Успех:</strong> Вы изменили рекламу!";
+$_['text_success']   = '<strong>Успешно:</strong> Вы изменили настройки рекламы!';
 
 // Error
-$_['error_adblock'] = "Похоже, вы используете блокировщик рекламы. Чтобы использовать этот раздел «Реклама», отключите блокировщик рекламы в панели администратора OpenCart.";
+$_['error_adblock'] = 'Похоже, включён блокировщик рекламы. Отключите его для панели администрирования OpenCart, чтобы использовать этот раздел.';

@@ -8,8 +8,9 @@
  * @link       https://forum.opencart.name
  */
 
-//Heading
-$_['heading_title']    = '中国用户请点击Pilibaba按钮跳转至中文页面付款';
+// Heading
+$_['heading_title']    = 'Клиентам из Китая: нажмите кнопку Pilibaba для перехода на страницу оплаты';
 
-//Text
-$_['text_description'] = 'Китайские клиенты, пожалуйста, нажмите кнопку Pilibaba, чтобы завершить оформление заказа.';
+// Text
+$_['text_description'] = 'Клиентам из Китая: нажмите кнопку Pilibaba для завершения оформления заказа';
+?>

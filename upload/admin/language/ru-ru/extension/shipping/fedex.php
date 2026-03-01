@@ -12,7 +12,7 @@
 $_['heading_title']                            = 'Fedex';
 
 // Text
-$_['text_extension']                           = 'Расширения';
+$_['text_shipping']                            = 'Доставка';
 $_['text_success']                             = 'Успешно: Вы изменили доставку Fedex!';
 $_['text_edit']                                = 'Редактировать доставку Fedex';
 $_['text_europe_first_international_priority'] = 'Европа первая международная приоритет';
@@ -57,7 +57,6 @@ $_['entry_password']                           = 'Пароль';
 $_['entry_account']                            = 'Номер счета';
 $_['entry_meter']                              = 'Номер измерителя';
 $_['entry_postcode']                           = 'Почтовый индекс';
-$_['entry_server']                             = 'Fedex Сервер';
 $_['entry_test']                               = 'Тестовый режим';
 $_['entry_service']                            = 'Сервисы';
 $_['entry_dimension']                          = 'Размеры коробки (Д х Ш х В)';
@@ -83,7 +82,7 @@ $_['help_display_weight']                      = 'Вы хотите отобра
 $_['help_weight_class']                        = 'Установите в килограммах или фунтах.';
 
 // Error
-$_['error_permission']                         = 'Предупреждение: У вас нет разрешения на изменение доставки Fedex!';
+$_['error_permission']                         = 'Предупреждение: У Вас нет разрешения на изменение доставки Fedex!';
 $_['error_key']                                = 'Ключ обязателен!';
 $_['error_password']                           = 'Пароль обязателен!';
 $_['error_account']                            = 'Счет обязателен!';

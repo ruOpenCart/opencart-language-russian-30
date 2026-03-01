@@ -8,8 +8,7 @@
  * @link       https://forum.opencart.name
  */
 
-
 // Text
-$_['text_cron_email_message'] = '<p>Это автоматический отчет о последней задаче CRON, выполненной вашим расширением Google Покупок.</p><p>%s</p>';
-$_['text_cron_email_subject'] = 'Отчет о вакансиях CRON - Google Покупки на OpenCart';
+$_['text_cron_email_message'] = '<p>Автоматический отчёт о последнем задании CRON, выполненном расширением Google Shopping.</p><p>%s</p>';
+$_['text_cron_email_subject'] = 'Отчёт CRON — Google Shopping в OpenCart';
 $_['text_per_day']            = '$%s / день';

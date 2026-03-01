@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/report/online.php
+ * @file       admin/language/ru-ru/report/online.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -33,4 +33,4 @@ $_['entry_status']      = 'Статус';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error
-$_['error_permission']  = 'Предупреждение: У вас нет разрешения на изменение отчета о клиентах онлайн!';
+$_['error_permission']  = 'Предупреждение: У Вас нет разрешения на изменение отчета о клиентах онлайн!';

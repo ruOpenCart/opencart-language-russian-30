@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package    Русский язык для OpenCart 3.x
  * @file       catalog/language/ru-ru/common/menu.php

@@ -23,11 +23,11 @@ $_['text_germany']     = 'Германия';
 $_['text_netherlands'] = 'Нидерланды';
 
 // Entry
-$_['entry_total']      = 'Сумма заказа';
+$_['entry_total']      = 'Весь заказ';
 $_['entry_fee']        = 'Счет-фактура';
 $_['entry_tax_class']  = 'Налоговый класс';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет разрешения на изменение Klarna fee!';
+$_['error_permission'] = 'Предупреждение: У Вас нет разрешения на изменение Klarna fee!';

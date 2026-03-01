@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/marketplace/installer.php
+ * @file       admin/language/ru-ru/marketplace/installer.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -13,7 +13,7 @@ $_['heading_title']     = 'Установщик расширений';
 
 // Text
 $_['text_progress']     = 'Прогресс установки';
-$_['text_upload']       = 'Загрузите ваши расширения';
+$_['text_upload']       = 'Загрузите Ваши расширения';
 $_['text_history']      = 'История установки';
 $_['text_success']      = 'Успешно: Расширение установлено!';
 $_['text_install']      = 'Установка';
@@ -31,7 +31,7 @@ $_['entry_progress']    = 'Прогресс';
 $_['help_upload']       = 'Требуется файл модификации с расширением \'.ocmod.zip\'.';
 
 // Error
-$_['error_permission']  = 'Предупреждение: У вас нет разрешения на изменение расширений!';
+$_['error_permission']  = 'Предупреждение: У Вас нет разрешения на изменение расширений!';
 $_['error_install']     = 'Выполняется установка расширения, подождите несколько секунд, прежде чем пытаться установить!';
 $_['error_upload']      = 'Файл не может быть загружен!';
 $_['error_filetype']    = 'Неверный тип файла!';

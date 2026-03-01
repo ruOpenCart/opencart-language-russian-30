@@ -25,13 +25,13 @@ $_['text_payment_method']   = 'Метод оплаты:';
 $_['text_comment']          = 'Комментарий к заказу';
 $_['text_history']          = 'История заказов';
 $_['text_success']          = 'Успешно: Вы добавили <a href="%s">%s</a> в <a href="%s">корзину</a>!';
-$_['text_empty']            = 'У вас еще не было заказов!';
+$_['text_empty']            = 'У Вас еще не было заказов!';
 $_['text_error']            = 'Заказ не найден!';
 
 // Column
 $_['column_order_id']       = 'Номер заказа';
 $_['column_customer']       = 'Покупатель';
-$_['column_product']        = 'No. of Products';
+$_['column_product']        = 'Кол-во товаров';
 $_['column_name']           = 'Наименование';
 $_['column_model']          = 'Модель';
 $_['column_quantity']       = 'Количество';

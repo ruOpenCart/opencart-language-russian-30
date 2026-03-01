@@ -23,6 +23,6 @@ $_['entry_secret']     = 'Секретный ключ';
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет разрешения на изменение Google reCAPTCHA!';
+$_['error_permission'] = 'Предупреждение: У Вас нет разрешения на изменение Google reCAPTCHA!';
 $_['error_key']        = 'Ключ обязателен!';
 $_['error_secret']     = 'Секретный ключ обязателен!';

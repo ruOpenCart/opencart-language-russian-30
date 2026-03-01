@@ -19,4 +19,4 @@ $_['text_edit']        = 'Редактировать модуль Sagepay Direct
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет прав на изменение модуля Sagepay Direct Card Management!';
+$_['error_permission'] = 'Предупреждение: У Вас нет прав на изменение модуля Sagepay Direct Card Management!';

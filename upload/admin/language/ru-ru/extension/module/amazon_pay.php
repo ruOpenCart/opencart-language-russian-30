@@ -19,8 +19,8 @@ $_['text_content_top']      = 'Content Top';
 $_['text_content_bottom']   = 'Content Bottom';
 $_['text_column_left']      = 'Column Left';
 $_['text_column_right']     = 'Column Right';
-$_['text_lwa_button']       = 'Оплатить с помощью Amazon';
-$_['text_login_button']     = 'Оплатить';
+$_['text_pwa_button']       = 'Amazon Pay';
+$_['text_pay_button']       = 'Оплатить';
 $_['text_a_button']         = 'Ссылка';
 $_['text_gold_button']      = 'Золотой';
 $_['text_darkgray_button']  = 'Темно-серый';
@@ -40,4 +40,4 @@ $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Порядок сортировки';
 
 //Error
-$_['error_permission']      = 'Предупреждение: У вас нет прав на изменение модуля оплатить с помощью Amazon!';
+$_['error_permission']      = 'Предупреждение: У Вас нет прав на изменение модуля оплатить с помощью Amazon!';

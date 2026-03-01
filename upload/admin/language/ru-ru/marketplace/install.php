@@ -1,7 +1,7 @@
 <?php
 /**
  * @package    Русский язык для OpenCart 3.x
- * @file       admin/language/ru-ru/mail/marketplace/install.php
+ * @file       admin/language/ru-ru/marketplace/install.php
  * @author     Hkr32
  * @copyright  © OCN, (https://opencart.name)
  * @license    https://opensource.org/licenses/GPL-3.0
@@ -16,7 +16,7 @@ $_['text_xml']         = 'Применение модификаций!';
 $_['text_remove']      = 'Удаление временных файлов!';
 
 // Error
-$_['error_permission'] = 'Предупреждение: У вас нет разрешения на изменение расширений!';
+$_['error_permission'] = 'Предупреждение: У Вас нет разрешения на изменение расширений!';
 $_['error_install']    = 'Выполняется установка расширения, подождите несколько секунд, прежде чем пытаться установить!';
 $_['error_unzip']      = 'Zip-файл не может быть открыт!';
 $_['error_file']       = 'Не удалось найти установочный файл!';

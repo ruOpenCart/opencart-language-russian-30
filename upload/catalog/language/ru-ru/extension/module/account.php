@@ -27,4 +27,4 @@ $_['text_reward']      = 'Бонусные баллы';
 $_['text_return']      = 'Возвраты';
 $_['text_transaction'] = 'Транзакции';
 $_['text_newsletter']  = 'Новостная рассылка';
-$_['text_recurring']   = 'Регулярные платежи';
+$_['text_recurring']   = 'Периодические платежи';

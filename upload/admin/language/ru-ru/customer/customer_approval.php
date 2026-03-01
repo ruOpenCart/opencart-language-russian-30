@@ -19,7 +19,7 @@ $_['text_customer']         = 'Клиент';
 $_['text_affiliate']        = 'Партнер';
 
 // Column
-$_['column_customer']       = 'Клиент';
+$_['column_name']           = 'Имя клиента';
 $_['column_email']          = 'Эл. почта';
 $_['column_customer_group'] = 'Группа клиента';
 $_['column_type']           = 'Тип';
@@ -34,4 +34,4 @@ $_['entry_type']            = 'Тип';
 $_['entry_date_added']      = 'Дата добавления';
 
 // Error
-$_['error_permission']      = 'Предупреждение: У вас нет прав на изменение одобрения клиентов!';
+$_['error_permission']      = 'Предупреждение: У Вас нет прав на изменение одобрения клиентов!';
